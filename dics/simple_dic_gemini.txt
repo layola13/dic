@@ -62142,3 +62142,1781 @@ zephrus [ˈzefrəs] n.  西风
 zero-g [ˈzɪərəʊˈdʒiː] adj.  零重力的
 zero-sum [ˈzɪərəʊˈsʌm] adj. 零和的
 zombie-ant [ˈzɒmbi ænt] n.  僵尸蚂蚁
+Adcock [ˈædkɒk] n. 阿德科克（姓氏）
+Airbus [ˈɛːbʌs] n. 空中客车（飞机制造商）
+Arison [ˈærɪsən] n. 阿里森（姓氏）
+Ary [ˈɑːri] adj. 艾莉（女子名）
+BYU [ˌbiːˌwaɪˈjuː] abbr. 杨百翰大学（Brigham Young University）
+Bali [ˈbɑːli] n. 巴厘岛（印度尼西亚岛屿）
+Beno [ˈbɛnoʊ] n. 贝诺（男子名）
+Bitcoins [ˈbɪtkɔɪnz] n. 比特币（复数）
+Bost [bɒst] n. 波斯特（姓氏）
+Botana [boʊˈtɑːnə] n. 博塔纳（姓氏）
+Bove [boʊv] n. 博韦（姓氏）
+Broadline [ˈbrɔːdlaɪn] n. 宽线（业务类型）
+Bunches [ˈbʌntʃɪz] n. 串；束；群（复数）
+CDW [ˌsiːˌdiːˈdʌbljuː] n. CDW公司（科技公司）
+Caan [kɑːn] n. 卡安（姓氏）
+Casher [ˈkæʃə(r)] n. 出纳员
+Cleaves [kliːvz] v. 劈开；分割；粘着（cleave的第三人称单数）
+Commandments [kəˈmɑːndmənts] n. 戒律（复数）
+Concords [ˈkɒŋkɔːdz] n. 和谐；一致；协定（复数）
+Dawkins [ˈdɔːkɪnz] n. 道金斯（姓氏）
+Devas [ˈdeɪvəz] n. 提婆（印度教术语，复数）
+Dodgers [ˈdɒdʒəz] n. 道奇队（棒球队，复数）
+Doppler [ˈdɒplə(r)] n. 多普勒（效应）
+Eartha [ˈɜːrθə] n. 厄莎（女子名）
+Ecclesiastes [ɪˌkliːziˈæstiːz] n. 传道书
+EtG [ˌiːtiːˈdʒiː] abbr. 乙基葡糖醛酸苷
+Fabs [fæbz] n. 晶圆厂（复数）
+Flintstones [ˈflɪntstəʊnz] n. 摩登原始人（动画片）
+Freemason [ˈfriːmeɪsn] n. 共济会会员
+Freemasonry [ˈfriːmeɪsnri] n. 共济会
+Freemasons [ˈfriːmeɪsnz] n. 共济会会员（复数）
+GAC [dʒiː eɪ siː] abbr. 广汽集团
+Gamay [ɡæˈmeɪ] n. 佳美（葡萄品种）
+Goodfellow [ˈɡʊdfɛloʊ] n. 古德费洛（姓氏）
+Granger [ˈɡreɪndʒə(r)] n. 格兰杰（姓氏）
+Graven [ˈɡreɪvən] adj. 雕刻的
+Grine [ɡraɪn] n. 格林（姓氏）
+Harare [həˈrɑːri] n. 哈拉雷（津巴布韦首都）
+Henton [ˈhɛntən] n. 亨顿（姓氏）
+Humpty [ˈhʌmpti] n. 矮胖子
+Jada [ˈdʒeɪdə] n. 贾达（女子名）
+Jetsons [ˈdʒɛtsənz] n. 杰森一家（动画片）
+Judeo-Christian [ˌdʒuːdiːoʊˈkrɪstʃən] adj.
+Judeo-Christian-Islamic [ˌdʒuːdiːoʊˈkrɪstʃənɪzˈlæmɪk] adj.
+Judeo-Masonic [ˌdʒuːdiːoʊˈmeɪsənɪk] adj.
+Judeo-capitalism [ˌdʒuːdiːoʊˈkæpɪtəlɪzəm] n. 犹太资本主义
+Kardashians [kɑːrˈdæʃiənz] n. 卡戴珊家族（复数）
+Kawasaki [ˌkɑːwəˈsɑːki] n. 川崎（姓氏/品牌）
+Kenville [ˈkɛnvɪl] n. 肯维尔（姓氏）
+Klingons [ˈklɪŋɒnz] n. 克林贡人（虚构种族，复数）
+Kmarts [ˈkeɪmɑːrts] n. 凯马特（零售商，复数）
+Know-Nothings [ˈnoʊ ˈnʌθɪŋz] n. 一无所知党（美国历史政党）
+Landers [ˈlændərz] n. 兰德斯（姓氏）
+Lani [ˈlɑːni] n. 拉妮（女子名）
+Lano [ˈlɑːnoʊ] n. 拉诺（姓氏）
+Laocoon [leɪˈɒkoʊɒn] n. 拉奥孔（希腊神话人物）
+Lasser [ˈlæsə(r)] n. 拉瑟（姓氏）
+Leander [liˈændə(r)] n. 利安德（男子名）
+Mand [mænd] n. 曼德（姓氏）
+Mio [ˈmiːoʊ] n. 米欧（男子名/品牌）
+NMR [ˌɛnɛmˈɑː(r)] abbr. 核磁共振（Nuclear Magnetic Resonance）
+NW [ˌɛnˈdʌbljuː] abbr. 西北（Northwest）
+Namibia [nəˈmɪbiə] n. 纳米比亚（国家）
+Natasha [nəˈtæʃə] n. 娜塔莎（女子名）
+Olivia [əˈlɪviə] n. 奥利维亚（女子名）
+Osho [ˈoʊʃoʊ]
+PRS [ˌpiːˌɑːrˈɛs] abbr. 私人住宅部门（Private Rented Sector）
+PVS [ˌpiːˌviːˈɛs] abbr. 持续性植物人状态（Persistent Vegetative State）
+Philipine [ˈfɪlɪpiːn] adj. 菲律宾的
+Picassa [pɪˈkɑːsə] n. 皮卡萨（软件名，已停止服务）
+Pinar [pɪˈnɑːr] n. 皮纳尔（女子名）
+Pomerleau [ˈpɒmərloʊ] n. 波默洛（姓氏）
+Primm [prɪm] n. 普里姆（姓氏）
+Pugi [ˈpuːɡi] n. 普吉（姓氏）
+Quantom [ˈkwɒntəm] n. 量子（误拼，应为Quantum）
+Rachel [ˈreɪtʃəl] n. 瑞秋（女子名）
+Regis [ˈriːdʒɪs] n. 里吉斯（姓氏/男子名）
+Rosenblatt [ˈroʊzənbæt] n. 罗森布拉特（姓氏）
+SRC [ˌɛsɑːˈsiː] abbr. 同步辐射中心（Synchrotron Radiation Center）
+SSS [ˌɛsɛsˈɛs] abbr. 美国兵役登记局（Selective Service System）
+SVP [ˌɛsviːˈpiː] abbr. 高级副总裁（Senior Vice President）
+Sadd [sæd] adj. 萨德（男子名）
+Salos [ˈsɑːloʊz] n. 萨洛斯（姓氏）
+Satanist [ˈseɪtənɪst] n.
+Satans [ˈseɪtənz] n.
+Scientology [ˌsaɪənˈtɒlədʒi] n.
+Semites [ˈsɛmaɪts] n. 闪米特人（复数）
+Shabbat [ʃəˈbɑːt] n.
+Shamanism [ˈʃɑːmənɪzəm] n.
+Snider [ˈsnaɪdə(r)] n. 斯奈德（姓氏）
+Sodom [ˈsɒdəm] n.
+Spartacist [ˈspɑːrtəsɪst] n. 斯巴达克同盟成员
+Spartacists [ˈspɑːrtəsɪsts] n. 斯巴达克同盟成员（复数）
+Stacy [ˈsteɪsi] n. 斯泰西（女子名）
+Staffordshire [ˈstæfərdʃɪr] n. 斯塔福德郡（英格兰郡名）
+Strasser [ˈstrɑːsər] n. 施特拉瑟（姓氏）
+TIY [tiːaɪˈwaɪ] abbr. 自己试试（Try It Yourself）
+Torah [ˈtɔːrə] n.
+Treeman [ˈtriːmæn] n. 树人（姓氏）
+UNF [ˌjuːɛnˈɛf] abbr. 联合国基金会（United Nations Foundation）
+UNP [ˌjuːɛnˈpiː] abbr. 统一国民党（United National Party）
+UNR [ˌjuːɛnˈɑː(r)] abbr. 内华达大学雷诺分校（University of Nevada, Reno）
+UNSCOP [ˈʌnskɒp] abbr. 联合国巴勒斯坦特别委员会（United Nations Special Committee on Palestine）
+US-Soviet [ˌjuːɛsˈsoʊviːət] adj. 美苏的
+Upanishads [uːˈpænɪˌʃædz] n. 奥义书（复数）
+VeCheKa [ˌveɪtʃɪˈkɑː] n. 全俄肃反委员会（苏俄政治警察机构）
+Vedanta [veɪˈdɑːntə] n. 吠檀多（印度哲学流派）
+Virgos [ˈvɜːrɡoʊz] n. 处女座（复数）
+WCW [ˌdʌbljuː siː ˈdʌbljuː] abbr. 世界冠军摔跤（World Championship Wrestling）
+WPO [ˌdʌbljuː piː ˈoʊ] abbr. 世界包装组织（World Packaging Organisation）
+WSC [ˌdʌbljuː ɛs siː] abbr. 世界太阳能车挑战赛（World Solar Challenge）
+WTO [ˌdʌbljuː tiː ˈoʊ] abbr. 世界贸易组织（World Trade Organization）
+Western-fashioned [ˈwɛstənˈfæʃənd] adj. 西方风格的
+Wy [ˈwaɪ] abbr. 怀俄明州（Wyoming）
+XE [ˌɛksˈiː] n. XE（货币转换网站）
+XG [ˌɛksˈdʒiː] abbr. 第十代移动通信技术
+XK [ˌɛksˈkeɪ] abbr. 捷豹XK（汽车型号）
+XM [ˌɛksˈɛm] abbr. XM卫星广播
+XO [ˌɛksˈoʊ] abbr. 抱抱亲亲（XOXO）
+XU [ˌɛksˈjuː] abbr. 泽维尔大学（Xavier University）
+Xs [ɛksɪz] n. X（字母）的复数
+YC [ˌwaɪˈsiː] abbr. Y Combinator（创业孵化器）
+YF [ˌwaɪˈɛf] abbr. 黄热病（Yellow Fever）
+YY [ˌwaɪˈwaɪ] abbr. 年复一年（Year-over-Year）
+Yagoda [jəˈɡoʊdə] n. 亚戈达（姓氏）
+Yahweh [ˈjɑːweɪ]
+Yermiya [jɜːrˈmaɪə] n. 耶利米（男子名）
+Yeshuv [jɛˈʃuːv] n.
+Yetch [jɛtʃ] n. 耶奇（男子名）
+Yevno [ˈjɛvnoʊ] n. 叶夫诺（姓氏）
+York-y [ˈjɔːrki] adj. 约克郡风格的
+Yuval [juːˈvɑːl] n. 尤瓦尔（男子名）
+ZD [ˌziːˈdiː] abbr. 零缺陷（Zero Defects）
+ZF [ˌziːˈɛf] abbr. 采埃孚（汽车零部件公司）
+Zay [zeɪ] n. 泽伊（男子名）
+Zionists [ˈzaɪənɪsts] n.
+Znamya [ˈznɑːmjə] n. 旗帜（俄语）
+Zs [ziːz] n. Z（字母）的复数
+Zu [zuː] n. 祖（男子名）
+a-g-e [eɪ dʒiː iː] n. 年龄
+a-roll [eɪ roʊl] n. A-roll（主要镜头）
+aage [ˈɑːdʒə] n. 年龄
+aai [ɑːˈɑːi] abbr. 美国人工智能协会（Association for the Advancement of Artificial Intelligence）
+aam [ɑːm] n. 阿姆（荷兰旧时容量单位）
+aams [ɑːmz] n. 阿姆斯（复数）
+aana [ˈɑːnə] n. 阿纳（印度旧货币单位）
+aaot [ɑːˈɒt] abbr. 自动答录机（Automatic Answering and Outgoing Telephone）
+aare [ˈɑːrə] n. 阿勒河（瑞士河流）
+aasar [ˈɑːsɑːr] n. 冰碛阜
+abductions [æbˈdʌkʃənz] n. 绑架（复数）
+abing [ˈeɪbɪŋ] n. 阿宾（男子名）
+abot [ˈæbɒt] n. 艾博特（姓氏）
+abstains [æbˈsteɪnz] v. 弃权；戒除（abstain的第三人称单数）
+accured [əˈkruːd] v. 积累；产生（accrue的过去式和过去分词）
+acharon [ɑːxəˈrɒn] adj. 最后的
+acheon [ˈækiːɒn] n. 阿凯恩（姓氏）
+acheron [ˈækərɒn] n. 阿刻戎河（希腊神话中的冥河）
+acome [əˈkoʊm] v. 来到（acome的过去式）
+acor [ˈeɪkɔːr] n. 阿科尔（姓氏）
+adamine [ˈædəmaɪn] n. 水砷锌矿
+adapar [ˈædəpɑːr] n. 阿达帕（姓氏）
+aderly [ˈædərli] n. 阿德利（姓氏）
+adier [ˈædiər] n. 阿迪尔（姓氏）
+adinon [ˈædɪnɒn] n. 阿迪农（姓氏）
+adiola [ˌædiˈoʊlə] n. 阿迪奥拉（姓氏）
+adree [æˈdriː] n. 阿德里（女子名）
+adronal [æˈdroʊnəl] adj. 肾上腺的
+adte [ædtiː] n. 阿德特（姓氏）
+adwan [ˈædwɑːn] n. 阿德万（姓氏）
+aec [ˌeɪiːˈsiː] abbr. 美国原子能委员会（Atomic Energy Commission）
+aelia [ˈiːliə] n. 伊利亚（古罗马家族名）
+aert [ɑːrt] n. 阿尔特（姓氏）
+aesome [ˈeɪsəm] adj. 令人敬畏的
+aets [eɪts] n. 年龄（复数）
+afg [ˌeɪɛfˈdʒiː] abbr. 阿富汗尼（货币单位）
+afid [ˈeɪfɪd] n. 蚜虫
+aganza [əˈɡænzə] n. 阿甘扎（姓氏）
+agblo [ˈæɡbloʊ] n. 阿格布洛（姓氏）
+aggroness [ˈæɡroʊnɛs] n. 攻击性
+agis [ˈeɪdʒɪs] n. 阿吉斯（男子名）
+aglarus [ˈæɡlərəs] n. 阿格拉鲁斯（姓氏）
+agreed-upon [əˈɡriːd əˌpɒn] adj. 双方商定的
+agrifuge [ˈæɡrɪfjuːdʒ] n. 农用离心机
+agules [ˈæɡjuːlz] n. 阿古莱斯（姓氏）
+ahaz [ˈeɪhæz] n. 亚哈斯（男子名）
+ahe [ɑːˈheɪ] interj. 啊嘿（感叹词）
+ahmud [ɑːˈmuːd] n. 艾哈迈德（男子名）
+ahold [əˈhoʊld] n. 掌握
+aidite [ˈeɪdaɪt] n. 艾迪特（女子名）
+aie [eɪ] interj. 哎呀（感叹词）
+aify [ˈeɪɪfaɪ] v. 使…字母化
+aing [eɪŋ] v. 唱（aing的现在分词）
+aird [ɛərd] v. 通风；晾晒（aird的过去式和过去分词）
+aires [ˈɛərz] n. 艾尔斯岩（澳大利亚地名，复数）
+aite [eɪt] n. 小岛
+aity [ˈeɪti] n. 艾蒂（女子名）
+aix [eɪks] n. 埃克斯（法国城市）
+akaian [əˈkeɪkiən] adj. 阿卡亚的
+al-Husseini [æl huːˈseɪni] n. 侯赛尼（姓氏）
+al-assad [æl əˈsɑːd] n. 阿萨德（姓氏）
+ala [ˈɑːlə] n. 阿拉（女子名）
+alang [əˈlæŋ] n. 阿朗（姓氏）
+alberto [ælˈbɜːrtoʊ] n. 阿尔贝托（男子名）
+albus [ˈælbəs] n. 阿不思（男子名）
+aled [eɪld] v. 酿造（ale的过去式和过去分词）
+alexism [əˈlɛksɪzəm] n. 述情障碍
+algusto [ælˈɡʌstoʊ] n. 阿尔古斯托（男子名）
+alicart [ˈælɪkɑːrt] n. 阿里卡特（姓氏）
+alius [ˈeɪliəs] n. 阿利乌斯（男子名）
+allar [ˈæ lɑːr] n. 阿拉尔（姓氏）
+allc [ˈɔːls] abbr. 美国图书馆委员会（American Library Council）
+allegieri [ˌæləˈdʒɛri] n. 阿莱杰里（姓氏）
+allly [ˈæli] adv. 完全地
+alltime [ˈɔːltaɪm] adj. 空前的
+almundo [ɑːlˈmuːndoʊ] n. 阿尔蒙多（姓氏）
+alwaysed [ˈɔːlweɪzd] v. 总是（always的过去式和过去分词）
+alzando [ɑːlˈzɑːndoʊ] adv. 升起（音乐术语）
+amaz [əˈmeɪz] v. 使惊奇（amaz的现在分词）
+americ [əˈmɛrɪk] n. 美国（America的简写）
+ameritus [əˈmɛrɪtəs] adj. 荣誉退休的
+amibas [əˈmiːbəz] n. 阿米巴原虫（复数）
+amigdala [əˈmɪɡdələ] n. 杏仁核
+amuna [əˈmuːnə] n. 阿穆纳（姓氏）
+anaka [əˈnɑːkə] n. 阿纳卡（姓氏）
+anals [ˈeɪnəlz] n. 肛门（复数）
+analyses [əˈnæləsiːz] n. 分析（复数）
+andace [ˈændɪs] n. 安达丝（女子名）
+andanius [ænˈdeɪniəs] n. 安达尼乌斯（姓氏）
+andaran [ˈændərən] n. 安达兰（姓氏）
+andbe [ˈændbiː] v. 将会（and be的缩写）
+anding [ˈændɪŋ] v. 登陆（land的现在分词）
+andof [ˈændɒf] conj. 和的（and of的缩写）
+andrees [ænˈdriːz] n. 安德烈斯（男子名）
+andreon [ænˈdriːɒn] n. 安德烈翁（男子名）
+andsecurity [ændsɪˈkjʊərɪti] n. 和安全（and security的缩写）
+anfinsen [ˈænfɪnsən] n. 安芬森（姓氏）
+angre [ɑːŋɡr] n. 昂格尔（姓氏）
+anguage [ˈæŋɡwɪdʒ] n. 语言（误拼，应为language）
+animator-friendly [ˈænɪmeɪtər ˈfrɛndli] adj. 对动画师友好的
+animeres [ˈænɪməˌrɛz] n. 动漫分辨率
+anjan [ˈʌndʒən] n. 安詹（男子名）
+anlis [ˈænlɪs] n. 安利斯（姓氏）
+anod [ˈænɒd] n. 阳极
+anony [ˈænəni] n. 匿名者（复数）
+anra [ˈænrə] n. 安拉（姓氏）
+ansed [ænst] v. 回答（answer的过去式和过去分词）
+anshos [ˈænʃoʊz] n. 安朔斯（姓氏）
+antaus [ænˈtiːəs] n. 安泰俄斯（希腊神话人物）
+antenor [ænˈtiːnɔːr] n. 安忒诺耳（希腊神话人物）
+anthra [ˈænθrə] n. 蒽（化学物质）
+anthrop [ˈænθrɒp] n. 人类（anthropology的简写）
+anthropo [ˈænθrəpoʊ] n. 人类（anthropology的简写）
+anthropy [ˈænθrəpi] n. 人类学（anthropology的简写）
+anti-Jewism [ˈænti ˈdʒuːɪzəm] n.
+anti-Liz [ˈænti lɪz] adj. 反莉兹的
+anti-Semite [ˈænti ˈsɛmaɪt] n.
+anti-Zionist [ˈænti ˈzaɪənɪst] n.
+anti-cheat [ˈænti tʃiːt] adj. 反作弊的
+anti-god [ˈænti ɡɒd] adj.
+anti-say [ˈænti seɪ] n. 反对意见
+anti-teleological [ˈænti ˌtɛliːəˈlɒdʒɪkəl] adj. 反目的论的
+anti-vaccine [ˈænti ˈvæksiːn] adj. 反疫苗的
+anti-vaxxer [ˈænti ˈvæksə(r)] n. 反对疫苗接种者
+antichrist [ˈæntɪkraɪst] n.
+antiestablishmentarianism [ˌæntɪɪˌstæblɪʃmɛnˈtɛəriənɪzəm] n. 反建制主义
+antigal [ˈæntɪɡæl] adj. 防腐的
+antinora [ˌæntɪˈnɔːrə] n. 安提诺拉（姓氏）
+anx [æŋks] n. 焦虑（anxiety的简写）
+aoes [eɪˈoʊz] n. 范围（area of effect的复数）
+aome [eɪˈoʊm] n. 一些（误拼，应为some）
+appli [ˈæpli] n. 应用（复数）
+appliation [ˌæplɪˈkeɪʃən] n. 应用
+appow [əˈpaʊ] v. 赋予权力（empower的非正式拼写）
+appre [ˈæpriː] n. 应用程序（application的简写）
+appropri [əˈproʊpri] v. 拨用（appropriate的过去式和过去分词）
+apsc [ˌeɪpiːɛsˈsiː] abbr. 亚太安全合作理事会（Asia Pacific Security Cooperation）
+apuzzo [əˈpuːzoʊ] n. 阿普佐（姓氏）
+aquinus [əˈkwaɪnəs] n. 阿奎那（姓氏）
+aragos [ˈærəɡɒs] n. 阿拉戈斯（姓氏）
+aranga [əˈræŋɡə] n. 阿兰加（姓氏）
+arant [ˈærænt] n. 阿兰特（姓氏）
+arase [əˈrɑːsi] n. 荒瀬（日本姓氏）
+araus [ˈærɔːz] n. 阿劳斯（姓氏）
+arays [əˈreɪz] n. 阵列（复数）
+arbaugh [ˈɑːrbɔː] n. 阿尔博（姓氏）
+archas [ˈɑːrkæs] n. 阿尔卡斯（男子名）
+archia [ɑːrˈkiːə] n. 阿尔基亚（姓氏）
+archist [ˈɑːrkɪst] n. 统治者
+archus [ˈɑːrkəs] n. 阿尔库斯（男子名）
+arcis [ˈɑːrsɪs] n. 阿尔西斯（姓氏）
+arcvice [ˈɑːrksvaɪs] n. 建筑可视化
+arcviz [ˈɑːrkvɪz] n. 建筑可视化
+aren [ˈɑːrɛn] n. 阿伦（男子名）
+argenti [ɑːrˈdʒɛnti] n. 阿尔真蒂（姓氏）
+argum [ˈɑːrɡəm] n. 争论（argument的简写）
+aricto [əˈrɪktoʊ] n. 阿里克托（姓氏）
+arimed [ˈærɪmɛd] n. 阿里梅德（姓氏）
+arir [ˈɑːrɪər] n. 阿里尔（男子名）
+arjs [ɑːr dʒeɪ ɛs] abbr. 增强现实JavaScript
+arlock [ˈɑːrlɒk] n. 阿洛克（姓氏）
+armas [ˈɑːrməs] n. 阿尔马斯（姓氏）
+aronson [ˈærənsən] n. 阿伦森（姓氏）
+arous [ˈæruːs] v. 激起（arouse的过去式和过去分词）
+arried [ˈærid] v. 结婚（marry的过去式和过去分词）
+artso [ˈɑːrtsoʊ] n. 阿尔特索（姓氏）
+arus [ˈɑːrəs] n. 阿鲁斯（姓氏）
+arut [ˈɑːruːt] n. 阿鲁特（男子名）
+arvr [ɑːrvɑːr] n. 增强现实/虚拟现实
+arwell [ˈɑːrwɛl] n. 阿韦尔（姓氏）
+asakus [ˈæsəˌkʌs] n. 阿萨库斯（姓氏）
+asham [ˈæʃəm] n. 阿沙姆（姓氏）
+asicus [ˈæsɪkəs] n. 阿西库斯（姓氏）
+asilt [əˈsɪlt] n. 阿西尔特（姓氏）
+asimov [ˈæsɪmɒv] n. 阿西莫夫（姓氏）
+asites [əˈsaɪtiːz] n. 腹水（复数）
+asmp [ˈeɪɛsɛmpiː] abbr. 美国媒体摄影师协会（American Society of Media Photographers）
+asmus [ˈæzməs] n. 阿斯穆斯（姓氏）
+aspy [ˈæspi] n. 阿斯皮（姓氏）
+asre [ˈæsriː] n. 阿斯雷（姓氏）
+assass [əˈsæs] v. 暗杀（assassinate的简写）
+assum [əˈsuːm] v. 假设（assume的过去式和过去分词）
+astr [ˈæstər] n. 星体
+astrological [ˌæstrəˈlɒdʒɪkəl] adj. 占星学的
+astrophysical [ˌæstroʊˈfɪzɪkəl] adj. 天体物理学的
+atam [ˈætæm] n. 阿塔姆（姓氏）
+ateed [əˈtiːd] v. 参加（attend的过去式和过去分词）
+ateneus [ˌætnˈiːəs] n. 阿特纽斯（姓氏）
+atheistic [ˌeɪθiˈɪstɪk] adj. 无神论的
+attains [əˈteɪnz] v. 达到；获得（attain的第三人称单数）
+auan [ˈaʊən] n. 奥安（姓氏）
+audence [ˈɔːdəns] n. 听众（audience的误拼）
+aund [ɔːnd] v. 拥有（own的过去式和过去分词）
+auor [ˈɔːər] n. 作者（author的误拼）
+ause [ɔːz] v. 导致（cause的过去式和过去分词）
+australicus [ɔːˈstrælɪkəs] n. 澳洲种
+autoLOD [ˈɔːtoʊ ɛl oʊ diː] n. 自动细节级别（游戏术语）
+avat [ˈævæt] n. 阿瓦特（姓氏）
+avod [ˈɑːvɒd] n. 阿沃德（姓氏）
+azimoff [əˈziːmɒf] n. 阿齐莫夫（姓氏）
+b-pad [biː pæd] n. B-pad（乐器）
+b-pound [biː paʊnd] n. 一英镑
+bab [bæb] n. 巴布（男子名）
+babush [ˈbæbʊʃ] n. 巴布什（姓氏）
+backdrops [ˈbækdrɒps] n. 背景幕布（复数）
+baguer [bæˈɡɜːr] n. 巴格尔（姓氏）
+baloga [bəˈloʊɡə] n. 巴洛加（姓氏）
+bandid [ˈbændɪd] n. 土匪（复数，应为bandits）
+banksters [ˈbæŋkstəz] n. 银行家（贬义，复数）
+baratas [bəˈrɑːtəs] n. 巴拉塔斯（姓氏）
+barish [ˈbærɪʃ] n. 巴里什（姓氏）
+barkshire [ˈbɑːrkʃɪər] n. 巴克郡（虚构地名）
+barss [bɑːrss] n. 巴尔斯（姓氏）
+basc [bæsk] abbr. 英国体育中心协会（British Association of Sport Centres）
+basine [ˈbeɪsɪn] n. 盆地
+basos [ˈbeɪsoʊz] n. 巴索斯（姓氏）
+bayin [ˈbeɪɪn] v. 吠叫（bay的现在分词）
+bayird [ˈbeɪərd] n. 贝亚德（姓氏）
+bbfn [ˌbiːbiːɛfˈɛn] abbr. 再见，朋友们（bye bye friends）
+bcis [ˈbiːsiːaɪɛs] abbr. 英国哥伦比亚省保险服务公司（British Columbia Insurance Services）
+beachr [ˈbiːtʃər] n. 比彻（姓氏）
+behaviorist [bɪˈheɪvjərɪst] n. 行为主义者
+beholders [bɪˈhoʊldərz] n. 观看者（复数）
+beij [beɪdʒ] n. 贝伊（姓氏）
+bejitsu [beɪˈdʒɪtsuː] n. 贝术（虚构武术）
+beneficence [bɪˈnɛfɪsəns] n. 仁慈；善行
+benevento [ˌbɛnəˈvɛntoʊ] n. 贝内文托（意大利城市）
+beond [biːˈɒnd] prep. 超越（beyond的非正式拼写）
+beos [ˈbiːoʊz] n. 贝奥斯（姓氏）
+ber [bɜːr] n. 伯尔（男子名）
+bernees [bɜːrˈniːz] n. 伯尔尼斯（女子名）
+berser [ˈbɜːrsər] n. 伯瑟（姓氏）
+besta [ˈbɛstə] n. 贝斯塔（姓氏）
+bestell [bɛˈʃtɛl] v. 订购（德语）
+betr [ˈbiːtiːɑːr] abbr. 英国电子交易注册处（British Electronic Trading Register）
+better-looking [ˈbɛtər ˈlʊkɪŋ] adj. 更好看的
+beus [biːˈuːs] n. 比厄斯（姓氏）
+bg [biːˈdʒiː] abbr. 背景（background）
+bigcoin [ˈbɪɡkɔɪn] n. 大币
+bigquery [ˈbɪɡˌkwɪəri] n. BigQuery（谷歌云服务）
+bikari [bɪˈkɑːri] n. 比卡里（姓氏）
+bilos [ˈbaɪloʊz] n. 拜洛斯（姓氏）
+biolog [ˈbaɪəlɒɡ] n. 生物学家（biologist的简写）
+biom [ˈbaɪɒm] n. 生物群系
+birri [ˈbɪri] n. 比里（姓氏）
+birs [bɜːrz] n. 伯尔斯（姓氏）
+blime [blaɪm] interj. 天哪！（感叹词）
+blint [blɪnt] adj. 瞎的（blind的非正式拼写）
+blo [bloʊ] n. 布洛（男子名）
+blobs [blɒbz] n. 斑点（复数）
+bloed [bluːd] n. 布洛德（姓氏）
+bloodb [blʌdb] n. 血（blood的误拼）
+bodhisattva [ˌboʊdɪˈsʌtvə] n.
+boseman [ˈboʊzmən] n. 博斯曼（姓氏）
+bozeman [ˈboʊzmən] n. 博兹曼（美国城市）
+briank [ˈbraɪənk] n. 布莱恩克（姓氏）
+buddhahood [ˈbʊdəhʊd] n.
+budged [bʌdʒd] v. 移动；让步（budge的过去式和过去分词）
+bunches [ˈbʌntʃɪz] n. 串；束；群（复数）
+butions [ˈbjuːʃənz] n. 布森斯（姓氏）
+byward [ˈbaɪwərd] n. 拜沃德（姓氏）
+bza [bzɑː] abbr. 商业区协会（Business Zone Association）
+c-o-n-s-t [siː oʊ ɛn ɛs tiː] abbr. 建设（construction的缩写）
+c-plus [siː plʌs] n. C+（计算机编程语言）
+c-shaped [siː ʃeɪpt] adj. C形的
+c-sharp [siː ʃɑːrp] n. C#（计算机编程语言）
+cabado [kəˈbɑːdoʊ] n. 卡巴多（姓氏）
+cabell [ˈkæbəl] n. 卡贝尔（姓氏）
+cabesa [kəˈbeɪsə] n. 卡贝萨（姓氏）
+cach [kætʃ] n. 卡奇（姓氏）
+calculat [ˈkælkjʊˌleɪt] v. 计算（calculate的过去式和过去分词）
+campgrounds [ˈkæmpɡraʊndz] n. 露营地（复数）
+caner [ˈkeɪnər] n. 卡纳（姓氏）
+catalized [ˈkætəlaɪzd] v. 催化（catalyze的过去式和过去分词）
+cavorting [kəˈvɔːrtɪŋ] v. 嬉戏；欢跃（cavort的现在分词）
+cdor [siːˈdɔːr] n. 西多尔（姓氏）
+chatot [ʃæˈtoʊ] n. 查托（姓氏）
+chem [kɛm] n. 化学（chemistry的简写）
+chman [ˈtʃmæn] n. 切曼（姓氏）
+clavin [ˈklævɪn] n. 克拉文（姓氏）
+co-executive [koʊ ɪɡˈzɛkjʊtɪv] n. 联合执行官
+coales [koʊˈæls] v. 合并（coalesce的过去式和过去分词）
+cobwebs [ˈkɒbwɛbz] n. 蜘蛛网（复数）
+coll [kɒl] n. 科尔（男子名）
+commense [kəˈmɛns] v. 开始
+committ [kəˈmɪt] v. 承诺；犯罪（commit的过去式和过去分词）
+companywide [ˈkʌmpəniwaɪd] adj. 全公司的
+compien [kəmˈpaɪən] n. 康皮恩（姓氏）
+compil [kəmˈpaɪl] v. 编译（compile的过去式和过去分词）
+complely [kəmˈpliːtli] adv. 完全地（completely的误拼）
+complet [kəmˈpliːt] adj. 完整的（complete的过去式和过去分词）
+computat [kəmˈpjuːtət] n. 计算（compute的过去式）
+computering [kəmˈpjuːtərɪŋ] n. 计算机技术
+computes [kəmˈpjuːts] v. 计算（compute的第三人称单数）
+conce [kɒns] v. 构思（conceive的过去式和过去分词）
+condr [ˈkɒndər] n. 康德尔（姓氏）
+condres [ˈkɒndriːz] n. 康德雷斯（姓氏）
+conicretz [kɒnɪˈkrɛts] n. 混凝土（复数，应为concretes）
+connives [kəˈnaɪvz] v. 纵容；密谋（connive的第三人称单数）
+consel [ˈkɒnsəl] n. 康塞尔（姓氏）
+conspansion [kənˈspænʃən] n. 共同扩张
+conspensive [kənˈspɛnsɪv] adj. 昂贵的
+contem [kənˈtɛm] v. 蔑视（contemn的过去式和过去分词）
+contrib [kənˈtrɪb] v. 贡献（contribute的过去式和过去分词）
+conu [ˈkoʊnuː] n. 科努（姓氏）
+copout [ˈkɒpaʊt] n. 逃避；借口
+covin [ˈkʌvɪn] n. 欺诈；共谋
+crackable [ˈkrækəbl] adj. 可破解的
+creasing [ˈkriːsɪŋ] n. 折痕
+creationist [kriˈeɪʃənɪst] n. 神创论者
+creationists [kriˈeɪʃənɪsts] n. 神创论者（复数）
+cringley [ˈkrɪŋɡli] n. 克林利（姓氏）
+cryptographically [ˌkrɪptəˈɡræfɪkli] adv. 密码学上地
+ctme [siː tiː ɛm iː] abbr. 临床试验方法与评估（Clinical Trial Methodology and Evaluation）
+ctmu [siː tiː ɛm juː] abbr. 认知-理论模型宇宙（Cognitive-Theoretic Model of the Universe）
+cuckolded [ˈkʌkoʊldɪd] v. 戴绿帽子（cuckold的过去式和过去分词）
+culbert [ˈkʌlbərt] n. 卡尔伯特（姓氏）
+cultivates [ˈkʌltɪveɪts] v. 培养；耕作（cultivate的第三人称单数）
+curee [kjʊˈriː] n. 被治愈者
+cusd [kʌsd] n. 库斯德（姓氏）
+cusion [ˈkʊʃən] n. 坐垫（cushion的误拼）
+custo [ˈkʌstoʊ] n. 库斯托（姓氏）
+dawkins [ˈdɔːkɪnz] n. 道金斯（姓氏）
+deducing [dɪˈdjuːsɪŋ] v. 推断（deduce的现在分词）
+defract [dɪˈfrækt] v. 衍射
+degrass [dɪˈɡræs] n. 德格拉斯（姓氏）
+demera [dəˈmɛrə] n. 德梅拉（姓氏）
+democra [dəˈmɒkrə] n. 民主党人（democrat的非正式拼写）
+demonetized [diːˈmʌnɪtaɪzd] v. 废除…的货币资格（demonetize的过去式和过去分词）
+denovo [diː ˈnoʊvoʊ] adv. 重新；从头
+descartes [deɪˈkɑːrt] n. 笛卡尔（姓氏）
+deutman [ˈdɔɪtmən] n. 多伊特曼（姓氏）
+deviates [ˈdiːvieɪts] v. 偏离（deviate的第三人称单数）
+dinies [ˈdɪniz] n. 迪尼斯（姓氏）
+dionis [daɪˈoʊnɪs] n. 狄奥尼斯（男子名）
+dipl [dɪpl] n. 文凭（diploma的简写）
+discretized [ˈdɪskrɪtaɪzd] v. 离散化（discretize的过去式和过去分词）
+disruptions [dɪsˈrʌpʃənz] n. 扰乱；中断（复数）
+disuss [dɪˈsʌs] v. 讨论（discuss的非正式拼写）
+doac [ˈdoʊæk] n. 直接口服抗凝剂（Direct Oral Anticoagulant）
+drivve [drɪv] v. 驾驶（drive的过去式）
+drro [ˈdrɒroʊ] abbr. 债务减免和重组办公室（Debt Relief and Restructuring Office）
+dubia [ˈdjuːbiə] n. 疑问（拉丁语）
+eal [iːl] n. 鳗鱼
+earthlike [ˈɜːrθlaɪk] adj. 类地行星的
+eavesdropper [ˈiːvzdrɒpə(r)] n. 窃听者
+economicus [ˌiːkəˈnɒmɪkəs] n. 经济人
+edara [ɛˈdɑːrə] n. 埃达拉（姓氏）
+egawah [ɛˈɡɑːwə] n. 埃加瓦（姓氏）
+eleviate [ɪˈliːvieɪt] v. 减轻（alleviate的误拼）
+embarrassingly [ɪmˈbærəsɪŋli] adv. 令人尴尬地
+encrypted [ɛnˈkrɪptɪd] v. 加密的（encrypt的过去式和过去分词）
+entailments [ɪnˈteɪlmənts] n. 继承（复数）
+enunciating [ɪˈnʌnsieɪtɪŋ] v. 清晰地发音；阐明（enunciate的现在分词）
+exping [ˈɛkspɪŋ] n. 经验值（experiencing的简写）
+exr [ˈɛksɑːr] abbr. 扩展现实（Extended Reality）
+extrav [ˈɛkstræv] adj. 奢侈的（extravagant的简写）
+extremists [ɪkˈstriːmɪsts] n. 极端分子（复数）
+fac [fæk] n. 系；学院（faculty的简写）
+face-planted [feɪs ˈplɑːntɪd] v. 脸朝下摔倒（face-plant的过去式和过去分词）
+fantasizing [ˈfæntəsaɪzɪŋ] v. 幻想（fantasize的现在分词）
+fertiliz [ˈfɜːrtɪlaɪz] v. 使受精；使肥沃（fertilize的过去式和过去分词）
+fideistic [ˌfaɪdiːˈɪstɪk] adj. 信仰主义的
+firewalls [ˈfaɪərwɔːlz] n. 防火墙（复数）
+firewire [ˈfaɪərwaɪər] n. 火线（接口）
+first-come [ˈfɜːrst ˈkʌm] adj. 先到的
+first-served [ˈfɜːrst ˈsɜːrvd] adj. 先得的
+flakes [fleɪks] n. 薄片（复数）
+flapping [ˈflæpɪŋ] v. 拍打（flap的现在分词）
+flasks [flɑːsks] n. 烧瓶（复数）
+flat-Earthers [flæt ˈɜːrθərz] n. 地平论者（复数）
+flatlined [ˈflætlaɪnd] v. 处于停滞状态；心跳停止（flatline的过去式和过去分词）
+flaying [ˈfleɪɪŋ] v. 剥皮（flay的现在分词）
+fledging [ˈflɛdʒɪŋ] adj. 羽翼渐丰的
+flge [ɛf ɛl dʒiː iː] abbr. 功能性低血糖（Functional Low Glucose Episode）
+flid [flɪd] n. 弗利德（姓氏）
+flipside [ˈflɪpsaɪd] n. 另一面；反面
+floro [ˈflɒroʊ] n. 弗洛罗（姓氏）
+flula [ˈfluːlə] n. 弗卢拉（姓氏）
+fny [ɛf ɛn waɪ] abbr. 纽约期货交易所（Futures New York）
+fo [foʊ] n. 敌人（foe的简写）
+foed [foʊd] v. 喂养（feed的过去式）
+foll [fɒl] n. 福尔（男子名）
+foo [fuː] n. 福（男子名）
+foret [fɔːˈreɪ] n. 福雷（姓氏）
+forgent [ˈfɔːrdʒənt] n. 福金特（姓氏）
+formul [ˈfɔːrmjʊl] n. 公式（formula的简写）
+fornite [ˈfɔːrnaɪt] n. 堡垒之夜（游戏）
+fortable [ˈfɔːrtəbl] adj. 舒适的
+fortat [ˈfɔːrtæt] n. 福塔特（姓氏）
+fouchyauchi [ˈfaʊtʃiːˈaʊtʃiː] n. 哎呦喂（感叹词）
+frag [fræɡ] n. 碎片；杀伤（fragment的简写）
+fragmenting [ˈfræɡmɛntɪŋ] v. 碎片化（fragment的现在分词）
+fraking [ˈfrækɪŋ] n. 水力压裂法
+francesca [frænˈtʃɛskə] n. 弗朗西斯卡（女子名）
+francesco [frænˈtʃɛskoʊ] n. 弗朗西斯科（男子名）
+franchised [ˈfræntʃaɪzd] v. 授予特许经销权（franchise的过去式和过去分词）
+fratton [ˈfrætn] n. 弗拉顿（姓氏）
+fredman [ˈfrɛdmən] n. 弗雷德曼（姓氏）
+friendman [ˈfrɛndmən] n. 弗兰德曼（姓氏）
+fries [fraɪz] n. 薯条（复数）
+frogged [frɒɡd] v. 用饰扣装饰（frog的过去式和过去分词）
+frustr [ˈfrʌstər] n. 沮丧（frustrated的简写）
+ftoc [ɛf tiː oʊ siː] abbr. 全时在线连接（Full-Time Online Connection）
+fuchi [ˈfuːtʃi] n. 扶持（姓氏）
+fullon [ˈfʊlɒn] adv. 完全地
+fult [fʌlt] adj. 充满的（full的非正式拼写）
+funa [ˈfuːnə] n. 富纳（姓氏）
+funcom [ˈfʌnkɒm] n. Funcom（游戏公司）
+furly [ˈfɜːrli] n. 弗利（姓氏）
+furnature [ˈfɜːrnɪtʃər] n. 家具（误拼，应为furniture）
+gadal [ɡəˈdɑːl] n. 加达尔（姓氏）
+gaganaw [ɡəˈɡænɔː] n. 加加诺（姓氏）
+gagari [ɡəˈɡɑːri] n. 加加里（姓氏）
+gahara [ɡəˈhɑːrə] n. 加哈拉（姓氏）
+gaiki [ɡaɪˈkiː] n. 盖基（姓氏）
+galvanizes [ˈɡælvənaɪzɪz] v. 电镀；刺激（galvanize的第三人称单数）
+gamebridge [ˈɡeɪmbrɪdʒ] n. 游戏桥
+gamees [ɡæˈmiːz] n. 游戏（复数，应为games）
+ganada [ɡəˈnɑːdə] n. 加纳达（姓氏）
+ganed [ɡeɪnd] v. 获得（gain的过去式和过去分词）
+garat [ɡəˈræt] n. 加拉特（姓氏）
+garri [ˈɡæri] n. 加里（男子名）
+garyon [ˈɡæriɒn] n. 加里翁（姓氏）
+gato [ˈɡɑːtoʊ] n. 加托（姓氏）
+gats [ɡæts] n. 盖茨（姓氏）
+gazillionaires [ɡəˈzɪljənɛərz] n. 亿万富翁（复数）
+gbani [ɡəˈbɑːni] n. 巴尼（姓氏）
+gcp [dʒiː siː piː] abbr. 谷歌云平台（Google Cloud Platform）
+gdau [dʒiː daʊ] abbr. 全球数据访问单元（Global Data Access Unit）
+gddr [ˌdʒiːdiːdiːˈɑːr] abbr. 图形双倍数据速率（Graphics Double Data Rate）
+gdo [dʒiː diː oʊ] abbr. 全球发展办公室（Global Development Office）
+gdos [dʒiː diː oʊ ɛs] abbr. 全球数据操作系统（Global Data Operating System）
+gdpr [ˌdʒiːdiːpiːˈɑːr] abbr. 通用数据保护条例（General Data Protection Regulation）
+gener [ˈdʒɛnər] n. 属；种类（genus的简写）
+generat [ˈdʒɛnərɪt] v. 产生（generate的过去式和过去分词）
+genit [ˈdʒɛnɪt] adj. 生殖的（genital的简写）
+geniv [ˈdʒɛnɪv] n. 根尼夫（姓氏）
+gential [dʒɛnˈʃəl] adj. 种族的；国家的
+geoc [ˈdʒiːɒk] n. 地质学家（geologist的简写）
+geod [ˈdʒiːɒd] n. 晶洞
+geoff [dʒɛf] n. 杰夫（男子名）
+geostrategic [ˌdʒiːoʊstrəˈtiːdʒɪk] adj. 地缘战略的
+gerardi [dʒəˈrɑːrdi] n. 杰拉尔迪（姓氏）
+gerdell [ɡərˈdɛl] n. 格德尔（姓氏）
+gestating [dʒɛˈsteɪtɪŋ] v. 孕育（gestate的现在分词）
+gfin [dʒiː ɛf aɪ ɛn] abbr. 全球金融创新网络（Global Financial Innovation Network）
+gford [dʒiːˈfɔːrd] n. 吉福德（姓氏）
+gigantomaki [dʒaɪˌɡæntəˈmɑːki] n. 巨人之战（希腊神话）
+gilovich [ɡɪˈloʊvɪtʃ] n. 吉洛维奇（姓氏）
+ginata [dʒɪˈnɑːtə] n. 吉纳塔（姓氏）
+girardian [dʒɪˈrɑːrdiən] adj. 吉拉德学派的
+glbb [dʒiː ɛl biː biː] abbr. 全球宽带（Global Broadband）
+glibber [ˈɡlɪbər] adj. 更油嘴滑舌的（glib的比较级）
+glitches [ˈɡlɪtʃɪz] n. 小故障（复数）
+globalist [ˈɡloʊbəlɪst] n. 全球主义者
+globalistic [ˌɡloʊbəˈlɪstɪk] adj. 全球主义的
+globalists [ˈɡloʊbəlɪsts] n. 全球主义者（复数）
+globin [ˈɡloʊbɪn] n. 珠蛋白
+glues [ɡluːz] n. 胶水（复数）
+goggin [ˈɡɒɡɪn] n. 戈金（姓氏）
+goggins [ˈɡɒɡɪnz] n. 戈金斯（姓氏）
+goingon [ˈɡoʊɪŋɒn] n. 正在发生的事情
+goldhorn [ˈɡoʊldhɔːrn] n. 戈德霍恩（姓氏）
+goldplated [ˈɡoʊldpleɪtɪd] adj. 镀金的
+gole [ɡoʊl] n. 进球（goal的非正式拼写）
+goling [ˈɡoʊlɪŋ] n. 高陵（中国地名）
+gongle [ˈɡɒŋɡl] v. 凝视（gongoozle的非正式拼写）
+gongoozler [ɡɒŋˈɡuːzlə(r)] n. 凝视者
+gops [ɡɒps] n. 共和党人（复数）
+goset [ˈɡoʊsɛt] n. 戈塞特（姓氏）
+goson [ˈɡoʊsɒn] n. 戈森（姓氏）
+gotone [ˈɡɒtoʊn] n. 戈托内（姓氏）
+gour [ɡaʊr] n. 古尔（姓氏）
+gowe [ɡaʊ] n. 高（姓氏）
+gpts [dʒiː piː tiː ɛs] abbr. 生成式预训练转换器（Generative Pre-trained Transformers）
+graet [ɡreɪt] adj. 伟大的（great的非正式拼写）
+gramly [ˈɡræmli] adv. 语法上地（grammatically的简写）
+grandp [ɡrænp] n. 祖父（grandpa的简写）
+grar [ɡrɑːr] n. 格拉尔（姓氏）
+grassp [ɡrɑːsp] v. 抓住（grasp的过去式和过去分词）
+gratitud [ˈɡrætɪtjuːd] n. 感激（gratitude的误拼）
+gravitates [ˈɡrævɪteɪts] v. 被吸引；倾向（gravitate的第三人称单数）
+gri [ɡriː] n. 格里（男子名）
+groc [ɡrɒk] v. 理解
+grock [ɡrɒk] v. 理解
+gromits [ˈɡrɒmɪts] n. 扣眼；金属环（复数）
+grommets [ˈɡrɒmɪts] n. 扣眼；金属环（复数）
+grumman [ˈɡrʌmən] n. 格鲁曼（公司）
+gue [ɡjuː] n. 袼褙
+gullan [ˈɡʌlən] n. 古兰（姓氏）
+gwatt [ɡwɒt] n. 格瓦特（姓氏）
+gwin [ɡwɪn] n. 格温（男子名）
+gws [dʒiː dʌbljuː ɛs] abbr. 谷歌网站服务器（Google Web Server）
+gy [dʒaɪ] n. 陀螺仪（gyro的简写）
+gz [ɡziː] abbr. gzip（文件压缩格式）
+hackathon [ˈhækəθɒn] n. 黑客马拉松
+hackathons [ˈhækəθɒnz] n. 黑客马拉松（复数）
+hadish [ˈhɑːdɪʃ] n.
+haen [heɪn] v. 有（have的过去式）
+hakara [həˈkɑːrə] n. 哈卡拉（姓氏）
+halis [ˈhɑːlɪs] n. 哈里斯（姓氏）
+halop [ˈheɪlɒp] n. 哈洛普（姓氏）
+hamama [həˈmɑːmə] n. 哈马马（姓氏）
+hampson [ˈhæmpsən] n. 汉普森（姓氏）
+hanai [həˈnaɪ] n. 哈奈（姓氏）
+handj [hændʒ] n. 汉杰（姓氏）
+hansberger [ˈhænsbɜːrɡər] n. 汉斯伯格（姓氏）
+hardgrave [ˈhɑːrdɡreɪv] n. 哈德格雷夫（姓氏）
+haritz [həˈrɪts] n. 哈里兹（姓氏）
+harmon [ˈhɑːrmən] n. 哈蒙（姓氏）
+harmonizes [ˈhɑːrmənaɪzɪz] v. 协调；使和谐（harmonize的第三人称单数）
+harmonizing [ˈhɑːrmənaɪzɪŋ] v. 协调；使和谐（harmonize的现在分词）
+hasabis [ˈhæsəbɪs] n. 哈萨比斯（姓氏）
+hasbin [ˈhæzbɪn] n. 哈斯宾（姓氏）
+hasht [hæʃt] v. 加标签（hashtag的过去式和过去分词）
+hassabis [həˈsɑːbɪs] n. 哈萨比斯（姓氏）
+hathway [ˈhæθweɪ] n. 海瑟薇（姓氏）
+hauled [hɔːld] v. 拖运（haul的过去式和过去分词）
+have-have [ˈhæv hæv] n. 富人
+hawkley [ˈhɔːkli] n. 霍克利（姓氏）
+headp [ˈhɛdp] n. 头（head的简写）
+heavner [ˈhɛvnər] n. 赫夫纳（姓氏）
+hedake [ˈhɛdˌeɪk] n. 赫达克（姓氏）
+heinlein [ˈhaɪnlaɪn] n. 海因莱因（姓氏）
+helenus [ˈhɛlɪnəs] n. 海伦努斯（男子名）
+hemog [ˈhiːmɒɡ] n. 血红蛋白（hemoglobin的简写）
+hemoglobin [ˌhiːməˈɡloʊbɪn] n. 血红蛋白
+henik [ˈhɛnɪk] n. 赫尼克（姓氏）
+hennon [ˈhɛnən] n. 亨农（姓氏）
+herea [hɪˈriːə] n. 赫里亚（姓氏）
+heris [ˈhɛrɪs] n. 赫里斯（姓氏）
+herock [ˈhɛrɒk] n. 赫罗克（姓氏）
+hesitates [ˈhɛzɪteɪts] v. 犹豫（hesitate的第三人称单数）
+highand [ˈhaɪənd] adj. 高端的
+highle [ˈhaɪli] adv. 高度地（highly的误拼）
+hin [hɪn] n. 欣（液体单位）
+hippies [ˈhɪpiz] n. 嬉皮士（复数）
+hipwell [ˈhɪpwɛl] n. 希普韦尔（姓氏）
+hird [hɜːrd] n. 希尔德（姓氏）
+hitchen [ˈhɪtʃɪn] n. 希钦（姓氏）
+hitri [ˈhɪtri] n. 希特里（姓氏）
+hles [ɛtʃ ɛl iː ɛs] abbr. 人类语言工程服务（Human Language Engineering Services）
+hlods [lɒdz] n. 洛兹（姓氏）
+hodge [hɒdʒ] n. 霍奇（姓氏）
+homm [hɒm] n. 霍姆（姓氏）
+hoochi [ˈhuːtʃi] n. 妓女
+hopefulness [ˈhoʊpfʊlnɛs] n. 希望
+hore [hɔːr] n. 妓女
+horoscopes [ˈhɒrəskoʊps] n. 星座运势（复数）
+horwood [ˈhɔːrwʊd] n. 霍伍德（姓氏）
+hosam [hoʊˈsɑːm] n. 霍萨姆（男子名）
+hotb [ɛtʃ oʊ tiː biː] abbr. 热门新书（Hot New Books）
+howel [ˈhaʊəl] n. 豪厄尔（姓氏）
+hoyen [ˈhɔɪən] n. 霍恩（姓氏）
+hrom [rɒm] n. 罗姆（姓氏）
+huberman [ˈhjuːbərmən] n. 休伯曼（姓氏）
+hubis [ˈhjuːbɪs] n. 休比斯（姓氏）
+huers [ˈhjuːərz] n. 休尔斯（姓氏）
+huklo [ˈhʌkloʊ] n. 胡克洛（姓氏）
+human-animal [ˈhjuːmən ˈænɪməl] n. 人兽混合体
+hungo [ˈhʌŋɡoʊ] n. 洪戈（姓氏）
+husaj [huːˈsɑːdʒ] n. 胡萨伊（姓氏）
+husin [huːˈsiːn] n. 侯赛因（男子名）
+hust [hʌst] v. 催促（hustle的过去式和过去分词）
+husten [ˈhʌstən] n. 胡斯顿（姓氏）
+hway [eɪtʃˈweɪ] n. 高速公路（highway的非正式拼写）
+hydrogens [ˈhaɪdrədʒɪnz] n. 氢（复数）
+hyen [haɪˈɛn] n. 鬣狗
+iMac [ˈaɪmæk] n. iMac（苹果电脑）
+iPads [ˈaɪpædz] n. iPad（复数）
+iPods [ˈaɪpɒdz] n. iPod（复数）
+iTunes [ˈaɪtjuːnz] n. iTunes（苹果软件）
+ianka [iˈæŋkə] n. 扬卡（姓氏）
+iasa [iːˈɑːsə] n. 亚萨（姓氏）
+iboat [ˈaɪboʊt] n. iBoat（船只品牌）
+ibos [ˈiːboʊz] n. 伊博族（尼日利亚民族，复数）
+icv [ˌaɪsiːˈviː] abbr. 主权财富基金（Sovereign Wealth Fund）的非正式说法
+ideologues [ˈaɪdiːəlɒɡz] n. 思想家（复数）
+idual [ɪˈdjuːəl] adj. 个人的（individual的非正式拼写）
+ific [ˈɪfɪk] adj. …的（后缀）
+ig [ɪɡ] abbr. 忽略（ignore的简写）
+igon [ˈaɪɡɒn] n. 伊根（姓氏）
+iic [ˌaɪaɪˈsiː] abbr. 国际信息中心（International Information Center）
+iine [iːn] n. 线（line的非正式拼写）
+iing [ˈiːɪŋ] n. …ing（后缀）
+iion [ˈaɪɒn] n. 离子（ion的非正式拼写）
+ikaro [iˈkɑːroʊ] n. 伊卡罗（姓氏）
+illumin [ɪˈluːmɪn] v. 照亮（illuminate的过去式和过去分词）
+ilm [ɪlm] n. 工业光魔（Industrial Light & Magic）
+imbalances [ɪmˈbælənsɪz] n. 不平衡（复数）
+imely [ˈaɪmli] adv. 及时地
+imic [ˈɪmɪk] adj. 模仿的
+imid [ˈɪmɪd] n. 亚胺
+imly [ˈɪmli] adv. 立即地（immediately的非正式拼写）
+immen [ˈɪmən] adj. 巨大的（immense的非正式拼写）
+imperian [ɪmˈpɪəriən] adj. 帝国的
+imposs [ɪmˈpɒs] adj. 不可能的（impossible的简写）
+inbo [ˈɪnboʊ] n. 因博（姓氏）
+incepted [ɪnˈsɛptɪd] v. 开始（incept的过去式和过去分词）
+inclin [ɪnˈklaɪn] v. 倾斜（incline的过去式和过去分词）
+incomprehensibly [ɪnˌkɒmprɪˈhɛnsəbli] adv. 难以理解地
+incomprehensive [ɪnˌkɒmprɪˈhɛnsɪv] adj. 不全面的
+incre [ˈɪŋkriː] v. 增加（increase的简写）
+indiv [ˌɪndɪˈvɪd] n. 个人（individual的简写）
+indoctrinated [ɪnˈdɒktrɪneɪtɪd] v. 灌输（indoctrinate的过去式和过去分词）
+indoctrinators [ɪnˈdɒktrɪneɪtərz] n. 灌输者（复数）
+industri [ɪnˈdʌstri] n. 工业（industry的简写）
+inem [ˈɪnɛm] n. 伊内姆（姓氏）
+inero [ɪˈnɛroʊ] n. 伊内罗（姓氏）
+inex [ˈɪnɛks] n. 伊内克斯（姓氏）
+infil [ˈɪnfɪl] v. 渗透（infiltrate的简写）
+infuence [ˈɪnflʊəns] n. 影响（influence的误拼）
+inigma [ɪˈnɪɡmə] n. 谜（enigma的误拼）
+inin [ˈɪnɪn] n. 伊宁（中国地名）
+ining [ˈaɪnɪŋ] n. …ing（后缀）
+injust [ɪnˈdʒʌst] adj. 不公正的（unjust的非正式拼写）
+inmation [ɪnˈmeɪʃən] n. 信息（information的简写）
+inom [ˈaɪnɒm] prep. 在…之内（in whom的缩写）
+inong [ɪˈnɒŋ] n. 伊农（姓氏）
+inore [ɪˈnɔːr] n. 伊诺尔（姓氏）
+inous [ˈaɪnəs] adj. …的（后缀）
+inovat [ˈɪnəˌvæt] v. 创新（innovate的过去式和过去分词）
+inp [ɪnp] n. 输入（input的简写）
+inredible [ɪnˈrɛdɪbl] adj. 难以置信的（incredible的误拼）
+insan [ɪnˈsɑːn] n. 因桑（姓氏）
+insites [ˈɪnsaɪts] n. 见解（复数）
+inso [ˈɪnsoʊ] n. 因索（姓氏）
+inspographic [ˌɪnspoʊˈɡræfɪk] n. 信息图表
+inss [ɪn ɛs ɛs] abbr. 国家安全战略研究所（Institute for National Security Studies）
+instinctually [ɪnˈstɪŋktʃuəli] adv. 本能地
+instru [ɪnˈstruː] v. 指示（instruct的过去式和过去分词）
+insulted [ɪnˈsʌltɪd] v. 侮辱（insult的过去式和过去分词）
+intakes [ˈɪnteɪks] n. 摄入量（复数）
+integrates [ˈɪntɪɡreɪts] v. 整合（integrate的第三人称单数）
+intellectualized [ˌɪntɪˈlɛktʃuəlaɪzd] v. 使…理智化（intellectualize的过去式和过去分词）
+intenal [ɪnˈtɛnəl] adj. 内部的（internal的误拼）
+intera [ɪnˈtɛrə] n. 因特拉（姓氏）
+interdicted [ˌɪntərˈdɪktɪd] v. 禁止；阻截（interdict的过去式和过去分词）
+intermed [ɪnˈtɜːrmɛd] adj. 中间的（intermediate的简写）
+interv [ɪnˈtɜːrv] n. 干预（intervention的简写）
+intraop [ˈɪntrəɒp] adj. 术中的（intraoperative的简写）
+introd [ˈɪntrɒd] v. 介绍（introduce的过去式和过去分词）
+intros [ˈɪntroʊz] n. 开场白（复数）
+intrusions [ɪnˈtruːʒənz] n. 入侵（复数）
+inty [ˈɪnti] n. 因蒂（姓氏）
+inura [ɪˈnjʊərə] n. 伊努拉（姓氏）
+invisigothic [ˌɪnvɪzɪˈɡɒθɪk] adj. 西班牙西哥特时期的
+ior [aɪ ɔːr] abbr. 印度洋边缘地区（Indian Ocean Rim）
+iot [aɪ oʊ tiː] abbr. 物联网（Internet of Things）
+ioto [aɪˈoʊtoʊ] n. 伊奥托（姓氏）
+iqs [aɪ kjuː ɛs] abbr. 智商分数（IQ scores）
+irand [ɪˈrænd] n. 伊兰德（姓氏）
+irreducibly [ˌɪrɪˈdjuːsɪbli] adv. 不可简化地
+isan [ˈaɪsæn] n. 伊桑（泰国地区）
+iss [ɪs] v. 发行（issue的过去式和过去分词）
+itely [ˈaɪtli] adv. …地（后缀）
+itive [ˈɪtɪv] adj. …的（后缀）
+itne [ˈɪtni] n. 伊特尼（姓氏）
+ivly [ˈaɪvli] adv. …地（后缀）
+iy [aɪ waɪ] abbr. 国际青年旅舍联盟（International Youth Hostel Federation）
+jaag [dʒɑːɡ] n. 亚格（姓氏）
+jaago [ˈdʒɑːɡoʊ] interj. 醒醒！（印地语）
+jaffre [ˈdʒæfri] n. 雅弗尔（姓氏）
+janghu [ˈdʒæŋhuː] n. 江户（日本古地名）
+japiro [dʒəˈpɪroʊ] n. 贾皮罗（姓氏）
+jayju [ˈdʒeɪdʒuː] n. 杰朱（姓氏）
+jble [dʒeɪ biː ɛl iː] abbr. 日本篮球联赛（Japan Basketball League）
+jbo [dʒeɪ biː oʊ] abbr. 日本银行（Japan Bank）
+jbot [ˈdʒeɪbɒt] n. JBot（机器人）
+je [dʒeɪ] n. 杰（男子名）
+jeene [dʒiːn] n. 吉恩（女子名）
+jender [ˈdʒɛndər] n. 詹德（姓氏）
+jenus [ˈdʒiːnəs] n. 杰纳斯（姓氏）
+jerks [dʒɜːrks] n. 混蛋（复数）
+jetion [ˈdʒɛʃən] n. 喷射
+jingang [ˈdʒɪŋɡæŋ] n. 金刚（佛教术语）
+jingxing [ˈdʒɪŋˈʃɪŋ] n. 井陉（中国地名）
+jinny [ˈdʒɪni] n. 金妮（女子名）
+jinsang [ˈdʒɪnsæŋ] n. 金桑（姓氏）
+joa [ˈdʒoʊə] n. 乔亚（女子名）
+johnf [dʒɒn ɛf] abbr. 约翰·F·肯尼迪（John F. Kennedy）
+jove [dʒoʊv] n. 朱庇特（罗马神话主神）
+jro [dʒeɪ ɑːr oʊ] abbr. 日本铁道（Japan Railways）
+judaic [dʒuːˈdeɪɪk] adj. 犹太教的
+judeca [dʒuːˈdiːkə] n. 朱迪卡（姓氏）
+judeka [dʒuːˈdiːkə] n. 朱迪卡（姓氏）
+judeo-christian [dʒuːˌdiːoʊˈkrɪstʃən] adj.
+judu [ˈdʒuːduː] n. 柔道
+junah [ˈdʒuːnə] n. 朱娜（女子名）
+justar [ˈdʒʌstɑːr] n. 朱斯塔（姓氏）
+justes [ˈdʒʌstɪs] n. 正义（复数，应为justices）
+justina [dʒʌˈstiːnə] n. 贾斯汀娜（女子名）
+justise [ˈdʒʌstɪs] n. 正义（justice的误拼）
+justos [ˈdʒʌstoʊz] n. 胡斯托斯（姓氏）
+jux [dʒʌks] v. 并列（juxtapose的简写）
+kagin [ˈkeɪɡɪn] n. 卡金（姓氏）
+kamikoto [ˌkɑːmiˈkoʊtoʊ] n. 上音（日本姓氏）
+kandle [ˈkændl] n. 坎德尔（姓氏）
+kantos [ˈkæntoʊz] n. 坎托斯（姓氏）
+kany [ˈkæni] n. 卡尼（姓氏）
+kapanius [kəˈpeɪniəs] n. 卡帕尼乌斯（希腊神话人物）
+kard [kɑːrd] n. 卡德（姓氏）
+kardashi [kɑːrˈdæʃi] n. 卡达ши（姓氏）
+karthy [ˈkɑːrθi] n. 卡西（姓氏）
+keing [kiːŋ] v. 哭泣（苏格兰盖尔语）
+keres [ˈkɪəriːz] n. 克蕾丝（希腊神话中的死亡女神，复数）
+kerson [ˈkɜːrsən] n. 克森（姓氏）
+kesi [ˈkɛsi] n. 凯西（姓氏）
+kesra [ˈkɛsrə] n. 凯斯拉（姓氏）
+ketching [ˈkɛtʃɪŋ] n. 捕捉（catching的非正式拼写）
+keting [ˈkiːtɪŋ] n. 基廷（姓氏）
+kiasmos [kaɪˈæzmɒs] n. 交叉配列法
+kidf [kɪdf] n. 基德夫（姓氏）
+kidfluencers [ˈkɪdfluːənsəz] n. 儿童网红（复数）
+kiding [ˈkɪdɪŋ] n. 开玩笑（kidding的非正式拼写）
+kitsen [ˈkɪtsən] n. 基岑（姓氏）
+kitson [ˈkɪtsən] n. 基森（姓氏）
+kjaro [ˈkjɑːroʊ] n. 克亚罗（姓氏）
+kneejerk [ˈniːdʒɜːrk] adj. 下意识的；自动的
+kniter [ˈnaɪtər] n. 编织者
+knowles [noʊlz] n. 诺尔斯（姓氏）
+knowwhere [ˈnoʊwɛər] adv. 无处（nowhere的非正式拼写）
+koblenz [ˈkoʊblɛnts] n. 科布伦茨（德国城市）
+kobotics [koʊˈbɒtɪks] n. 协作机器人技术
+kogin [ˈkoʊɡɪn] n. 科金（姓氏）
+kolio [ˈkoʊlioʊ] n. 科利奥（姓氏）
+kood [kuːd] n. 库德（姓氏）
+koos [kuːs] n. 库斯（姓氏）
+kosg [kɒsɡ] abbr. 韩国开放源码软件组织（Korea Open Source Software Group）
+kowak [ˈkoʊwæk] n. 科瓦克（姓氏）
+krispies [ˈkrɪspiz] n. 米饼（品牌）
+kriti [ˈkrɪti] n. 克里提（姓氏）
+krono [ˈkroʊnoʊ] n. 克罗诺（姓氏）
+kubert [ˈkjuːbərt] n. 库伯特（姓氏）
+kubri [ˈkuːbri] n. 库布里（姓氏）
+kudin [ˈkuːdɪn] n. 库丁（姓氏）
+kunda [ˈkuːndə] n. 孔达（姓氏）
+kundera [ˈkuːndərə] n. 昆德拉（姓氏）
+kuron [ˈkuːrɒn] n. 库伦（姓氏）
+kuryakin [kʊərˈjɑːkɪn] n. 库里亚金（姓氏）
+laad [lɑːd] n. 拉德（姓氏）
+laberte [ləˈbɜːrti] n. 拉贝特（姓氏）
+lanara [ləˈnɑːrə] n. 拉纳拉（姓氏）
+langan [ˈlæŋɡən] n. 兰根（姓氏）
+lange [læŋ] n. 朗格（姓氏）
+langu [ˈlæŋɡuː] n. 语言（language的简写）
+laobach [ˈlaʊbɑːk] n. 劳巴赫（姓氏）
+laon [ˈleɪɒn] n. 莱昂（法国城市）
+laora [leɪˈɔːrə] n. 劳拉（女子名）
+laow [laʊ] n. 老挝（Laos的非正式拼写）
+laper [ˈleɪpər] n. 拉佩尔（姓氏）
+lapus [ˈlæpəs] n. 拉普斯（姓氏）
+laqua [ˈlɑːkwə] n. 拉夸（姓氏）
+laraia [ləˈreɪə] n. 拉雷亚（姓氏）
+lasker [ˈlæskər] n. 拉斯克（姓氏）
+latia [ˈleɪʃə] n. 拉蒂亚（女子名）
+latini [ləˈtiːni] n. 拉蒂尼（姓氏）
+lautu [ˈlaʊtuː] n. 劳图（姓氏）
+layf [leɪf] n. 莱夫（姓氏）
+lazen [ˈleɪzən] n. 莱森（姓氏）
+leaon [liːˈɒn] n. 莱昂（男子名）
+leaped [liːpt] v. 跳跃（leap的过去式和过去分词）
+leavs [liːvz] n. 叶子（复数，应为leaves）
+legus [ˈliːɡəs] n. 莱格斯（姓氏）
+leider [ˈlaɪdər] n. 莱德（姓氏）
+leif [leɪf] n. 莱夫（男子名）
+leithy [ˈliːθi] n. 利西（姓氏）
+lemnos [ˈlɛmnɒs] n. 利姆诺斯岛（希腊岛屿）
+lenes [ˈliːniːz] n. 莱内斯（姓氏）
+lenon [ˈlɛnən] n. 莱农（姓氏）
+lenticular [lɛnˈtɪkjʊlər] adj. 透镜状的
+lenu [ˈliːnuː] n. 莱努（姓氏）
+leted [ˈliːtɪd] v. 删除（delete的过去式和过去分词）
+levantal [ləˈvæntəl] n. 莱万塔尔（姓氏）
+lewiston [ˈluːɪstən] n. 刘易斯顿（美国城市）
+lez [lɛz] n. 女同性恋（lesbian的简写）
+lger [ɛl dʒiː iː ɑːr] abbr. 轻型通用电动机器人（Light General Electric Robot）
+lgn [ɛl dʒiː ɛn] abbr. 登录（login的简写）
+liberalized [ˈlɪbərəlaɪzd] v. 使…自由化（liberalize的过去式和过去分词）
+libertarians [ˌlɪbərˈtɛəriənz] n. 自由主义者（复数）
+licen [ˈlaɪsən] n. 许可证（license的简写）
+licorice [ˈlɪkərɪʃ] n. 甘草
+liement [ˈlaɪmənt] n. 留置权
+lifs [lɪfs] n. 生命（复数，应为lives）
+likeke [laɪˈkiːki] n. 利凯克（姓氏）
+limic [ˈlɪmɪk] adj. 湖泊的
+limpic [ˈlɪmpɪk] adj. 清澈的
+lingi [ˈlɪndʒi] n. 林吉（姓氏）
+lionesque [ˌlaɪəˈnɛsk] adj. 像狮子的
+lising [ˈlaɪsɪŋ] n. 列表（listing的非正式拼写）
+litm [ˈlɪtm] n. 利特姆（姓氏）
+littlez [ˈlɪtlz] n. 小家伙们（复数）
+litus [ˈlaɪtəs] n. 利图斯（姓氏）
+liyar [ˈlaɪər] n. 骗子（liar的误拼）
+llong [lɒŋ] n. 隆（姓氏）
+lme [ɛl ɛm iː] abbr. 伦敦金属交易所（London Metal Exchange）
+lmic [ɛl ɛm aɪ siː] abbr. 中低收入国家（Lower Middle Income Country）
+localistic [ˌloʊkəlˈɪstɪk] adj. 地方主义的
+locke [lɒk] n. 洛克（姓氏）
+longinus [lɒnˈdʒaɪnəs] n. 朗基努斯（男子名）
+lonus [ˈloʊnəs] n. 洛努斯（姓氏）
+loudo [ˈluːdoʊ] n. 卢多（姓氏）
+loveo [ˈlʌvioʊ] n. 洛维奥（姓氏）
+lowu [ˈloʊwuː] n. 洛乌（姓氏）
+lra [ɛl ɑːr eɪ] abbr. 上帝抵抗军（Lord's Resistance Army）
+lucans [ˈluːkənz] n. 卢肯斯（姓氏）
+luening [ˈluːnɪŋ] n. 吕宁（姓氏）
+lumic [ˈluːmɪk] adj. 发光的
+lunes [luːnz] n. 星期一（复数）
+lyan [ˈlaɪən] n. 莱恩（姓氏）
+lyic [ˈlaɪɪk] adj. 抒情的（lyric的误拼）
+lynon [ˈlaɪnɒn] n. 莱农（姓氏）
+maak [mɑːk] n. 马克（姓氏）
+maccaa [mækˈɑː] n. 马卡（姓氏）
+machari [məˈkɑːri] n. 马查里（姓氏）
+macker [ˈmækər] n. 马克（姓氏）
+macki [ˈmæki] n. 马基（姓氏）
+mackian [ˈmækiən] adj. 麦基洗德的
+maggie [ˈmæɡi] n. 玛吉（女子名）
+magne [mɑːn] n. 马涅（姓氏）
+majority-ites [məˈdʒɒrɪti aɪts] n. 多数派
+makavelli [ˌmækəˈvɛli] n. 马基雅维利（姓氏）
+malibrangier [ˌmɑːlibrɑːnˈʒɪər] n. 马利布朗吉耶（姓氏）
+malikowski [ˌmɑːlɪˈkɒfski] n. 马利科夫斯基（姓氏）
+malmstrom [ˈmɑːlmstrɔːm] n. 马尔姆斯特伦（姓氏）
+mammon [ˈmæmən] n.
+maners [ˈmænərz] n. 礼仪（复数，应为manners）
+manichaeism [ˌmænɪˈkiːɪzəm] n.
+manoa [məˈnoʊə] n. 马诺阿（姓氏）
+manticore [ˈmæntɪkɔːr] n. 蝎尾狮（神话生物）
+marago [məˈrɑːɡoʊ] n. 马拉戈（姓氏）
+maral [məˈrɑːl] n. 马拉尔（姓氏）
+marcer [ˈmɑːrsər] n. 马瑟（姓氏）
+mardus [ˈmɑːrdəs] n. 马尔杜斯（姓氏）
+maricio [məˈrɪsioʊ] n. 毛里西奥（男子名）
+marinal [məˈriːnəl] n. 马里纳尔（姓氏）
+marray [məˈreɪ] n. 马雷（姓氏）
+marsar [ˈmɑːrsɑːr] n. 马萨尔（姓氏）
+mased [meɪst] v. 捣碎（mash的过去式和过去分词）
+masio [ˈmɑːsioʊ] n. 马西奥（姓氏）
+materialis [məˌtɪəriˈælɪs] n. 唯物主义者
+maxar [ˈmæksɑːr] n. 马克萨（公司）
+maximizers [ˈmæksɪmaɪzərz] n. 最大化者（复数）
+mber [ɛm biː iː ɑːr] abbr. 移动宽带设备评级（Mobile Broadband Equipment Rating）
+mbes [ɛm biː iː ɛs] abbr. 甲基溴化物环境科学（Methyl Bromide Environmental Science）
+mclan [məkˈlæn] n. 麦克莱恩（姓氏）
+mcmurdo [məkˈmɜːrdoʊ] n. 麦克默多站（南极科考站）
+meas [miːz] n. 措施（复数，应为measures）
+mecha [ˈmɛkə] n. 机甲（日本动漫）
+medeski [məˈdɛski] n. 梅德斯基（姓氏）
+medica [ˈmɛdɪkə] n. 医疗（medicine的简写）
+medicalization [ˌmɛdɪkəlaɪˈzeɪʃən] n. 医疗化
+medications [ˌmɛdɪˈkeɪʃənz] n. 药物（复数）
+medita [mɛˈdiːtə] v. 冥想（meditate的过去式和过去分词）
+mediumsized [ˈmiːdiəmsaɪzd] adj. 中等大小的
+megga [ˈmɛɡə] adj. 巨大的（mega的非正式拼写）
+meguera [mɛˈɡɛərə] n. 墨格拉（希腊神话复仇女神）
+meing [maɪŋ] n. 我的（mine的非正式拼写）
+meio [ˈmeɪoʊ] n. 梅奥（姓氏）
+melanated [ˈmɛləneɪtɪd] adj. 黑色素沉着的
+melstrom [ˈmɛlstrɒm] n. 梅尔斯特伦（姓氏）
+mem [mɛm] n. 模因
+menaeus [məˈniːəs] n. 梅纳乌斯（姓氏）
+mergin [ˈmɜːrdʒɪn] n. 合并（merging的非正式拼写）
+merilla [məˈrɪlə] n.梅里拉（姓氏）
+merism [ˈmɛrɪzəm] n. 分体论
+meses [ˈmiːsiːz] n. 月份（复数，应为months）
+mesis [ˈmiːsɪs] n. 中间
+mesobiology [ˌmɛsoʊbaɪˈɒlədʒi] n. 中观生物学
+messier [ˈmɛsiər] n. 梅西耶（姓氏）
+metacausation [ˌmɛtəkɔːˈzeɪʃən] n. 元因果关系
+metalum [mɛˈtɑːləm] n. 梅塔勒姆（姓氏）
+metaph [ˈmɛtəf] n. 隐喻（metaphor的简写）
+metaphil [ˈmɛtəfɪl] n. 梅塔菲尔（姓氏）
+meteoritic [ˌmiːtiːəˈrɪtɪk] adj. 陨石的
+meteors [ˈmiːtiərz] n. 流星（复数）
+metf [mɛtf] n. 梅特夫（姓氏）
+meth [mɛθ] n. 冰毒（methamphetamine的简写）
+methf [mɛθ ɛf] abbr. 二甲双胍（metformin的简写）
+metors [ˈmiːtərz] n. 仪表（复数）
+metosa [mɛˈtoʊsə] n. 梅托萨（姓氏）
+metr [ˈmiːtər] n. 米（meter的简写）
+mey [meɪ] n. 梅伊（女子名）
+meyers [ˈmaɪərz] n. 迈尔斯（姓氏）
+micr [ˈmaɪkər] n. 微（micro的简写）
+microa [ˈmaɪkroʊə] n. 微安
+microc [ˈmaɪkrɒk] n. 微控制器
+microfab [ˈmaɪkroʊfæb] n. 微制造
+microp [ˈmaɪkrɒp] n. 微处理器
+microsc [ˈmaɪkrɒsk] n. 显微镜（microscope的简写）
+midley [ˈmɪdli] n. 米德利（姓氏）
+midpoly [ˈmɪdˌpɒli] n. 中模
+mightt [maɪt] v. 可能（might的过去式和过去分词）
+miglio [ˈmiːljoʊ] n. 米利奥（姓氏）
+mijoko [miˈdʒoʊkoʊ] n. 米乔科（姓氏）
+mikelangelo [ˌmaɪkəlˈændʒəloʊ] n. 米开朗基罗（男子名）
+milkin [ˈmɪlkɪn] v. 挤奶（milk的现在分词）
+milous [ˈmaɪləs] n. 米卢斯（姓氏）
+mimeograph [ˈmɪmiːəɡrɑːf] n. 油印机
+minhaj [mɪnˈhɑːdʒ] n. 明哈吉（姓氏）
+minifics [mɪˈnɪfɪks] n. 小说（复数）
+minimalizm [ˈmɪnɪməlɪzəm] n. 极简主义
+minimas [ˈmɪnɪməz] n. 最小值（复数）
+minimis [ˈmɪnɪmɪs] adj. 微不足道的
+minority-ites [maɪˈnɒrɪti aɪts] n. 少数派
+minsky [ˈmɪnski] n. 明斯基（姓氏）
+minua [mɪˈnuːə] n. 米努阿（姓氏）
+miror [ˈmɪrər] n. 镜子（mirror的误拼）
+mischaracterizes [ˌmɪsˈkærɪktəraɪzɪz] v. 歪曲（mischaracterize的第三人称单数）
+misfiring [ˌmɪsˈfaɪərɪŋ] v. 发射失败；失火（misfire的现在分词）
+misk [mɪsk] n. 米斯克（姓氏）
+mislum [ˈmɪzləm] n. 米斯勒姆（姓氏）
+misreported [ˌmɪsrɪˈpɔːrtɪd] v. 误报（misreport的过去式和过去分词）
+missionaire [ˌmɪʃəˈnɛər] n. 传教士
+missioner [ˈmɪʃənər] n. 传教士
+mistype [mɪsˈtaɪp] v. 打错（mistype的过去式和过去分词）
+misus [ˈmaɪsəs] n. 迈萨斯（姓氏）
+mity [ˈmaɪti] adj. 强大的（mighty的非正式拼写）
+mm-hm [mhm] interj. 嗯嗯（表示同意）
+mmap [ɛm mæp] v. 内存映射
+mney [ˈmʌni] n. 钱（money的非正式拼写）
+moca [ˈmoʊkə] n. 摩卡（咖啡）
+modelin [ˈmɒdəlɪn] n. 建模（modeling的非正式拼写）
+modum [ˈmoʊdəm] n. 调制解调器
+moeman [ˈmoʊmən] n. 莫曼（姓氏）
+mojoco [moʊˈdʒoʊkoʊ] n. 莫霍科（姓氏）
+moksha [ˈmoʊkʃə] n.
+moly [ˈmɒli] n. 钼
+momy [ˈmɒmi] n. 妈妈（mommy的非正式拼写）
+monamore [ˈmɒnəˌmɔːr] n. 莫纳莫尔（姓氏）
+moov [muːv] v. 移动（move的非正式拼写）
+mopa [ˈmoʊpə] n. 莫帕（姓氏）
+moradi [məˈrɑːdi] n. 莫拉迪（姓氏）
+moralizing [ˈmɒrəlaɪzɪŋ] v. 说教（moralize的现在分词）
+morline [ˈmɔːrlaɪn] n. 莫林（姓氏）
+morons [ˈmɔːrɒnz] n. 笨蛋（复数）
+morphed [mɔːrft] v. 变形（morph的过去式和过去分词）
+morphic [ˈmɔːrfɪk] adj. 形态的
+morsels [ˈmɔːrsəlz] n. 一小口（复数）
+mosha [ˈmoʊʃə] n. 莫沙（姓氏）
+myers [ˈmaɪərz] n. 迈尔斯（姓氏）
+nanop [ˈnænɒp] n. 纳米颗粒
+necessar [ˈnɛsɪsɑːr] adj. 必要的（necessary的简写）
+neoliberals [ˌniːoʊˈlɪbərəlz] n. 新自由主义者（复数）
+neoplatonism [ˌniːoʊˈpleɪtənɪzəm] n. 新柏拉图主义
+ness [nɛs] n. …性（后缀）
+newtonium [njuːˈtoʊniəm] n. 牛顿元素（虚构元素）
+ngos [ɛn dʒiː oʊ ɛs] abbr. 非政府组织（non-governmental organizations）
+nitr [ˈnaɪtər] n. 尼特（亮度单位）
+non-academic [nɒn ˌækəˈdɛmɪk] adj. 非学术性的
+non-locally [nɒn ˈloʊkəli] adv. 非局部地
+non-terminal [nɒn ˈtɜːrmɪnəl] adj. 非终结的
+non-violently [nɒn ˈvaɪələntli] adv. 非暴力地
+notep [ˈnoʊtɛp] n. 笔记本（notebook的简写）
+noyman [ˈnɔɪmən] n. 诺伊曼（姓氏）
+nsa [ɛn ɛs eɪ] abbr. 美国国家安全局（National Security Agency）
+nuh [nʌ] interj. 不（no的非正式拼写）
+nulear [ˈnjuːliər] adj. 核能的（nuclear的误拼）
+numberers [ˈnʌmbərərz] n. 计数者（复数）
+obliquely [əˈbliːkli] adv. 间接地；倾斜地
+obser [əbˈzɜːr] v. 观察（observe的简写）
+ocupate [ˈɒkjʊˌpeɪt] v. 占据（occupy的过去式和过去分词）
+offends [əˈfɛndz] v. 冒犯（offend的第三人称单数）
+oligarchic [ˌɒlɪˈɡɑːrkɪk] adj. 寡头政治的
+olila [oʊˈliːlə] n. 奥利拉（姓氏）
+olmutz [ˈɒlmʊts] n. 奥尔米茨（捷克城市）
+olna [ˈɒlnə] n. 奥尔纳（姓氏）
+olssen [ˈɒlsən] n. 奥尔森（姓氏）
+olster [ˈɒlstər] n. 奥尔斯特（姓氏）
+omahaads [ˈoʊməhɑːdz] n. 奥马哈广告（复数）
+omalu [oʊˈmɑːluː] n. 奥马卢（姓氏）
+omnipotence [ɒmˈnɪpətəns] n. 全能
+omnipresence [ˌɒmnɪˈprɛzəns] n. 无所不在
+omniscience [ɒmˈnɪsiəns] n. 全知
+opposit [ˈɒpəzɪt] adj. 相反的（opposite的简写）
+orcas [ˈɔːrkəz] n. 虎鲸（复数）
+oshios [oʊˈʃiːoʊz] n. 奥希奥斯（姓氏）
+ously [ˈəʊsli] adv. …地（后缀）
+outra [ˈaʊtrə] adj. 另一个（other的非正式拼写）
+panar [pəˈnɑːr] n. 帕纳尔（姓氏）
+panderos [pænˈdɛroʊz] n. 潘德罗斯（姓氏）
+pandius [ˈpændiəs] n. 潘狄乌斯（姓氏）
+panentheism [pænˈɛnθiːɪzəm] n.
+panentheistic [ˌpænɛnˈθiːɪstɪk] adj.
+panm [pænm] n. 潘姆（姓氏）
+panr [pæn ɑːr] abbr. 泛非网络（Pan African Network）
+pantheistic [ˌpænθiˈɪstɪk] adj. 泛神论的
+paror [ˈpɑːrɔːr] n. 帕罗尔（姓氏）
+parsavalik [ˌpɑːrsəˈvælɪk] n. 帕尔萨瓦利克（姓氏）
+passon [ˈpæsɒn] n. 帕森（姓氏）
+pberry [ˈpiːbɛri] n. 黑莓（blackberry的简写）
+perceptron [pərˈsɛptrɒn] n. 感知器
+philipine [ˈfɪlɪpiːn] adj. 菲律宾的
+platinus [pləˈtaɪnəs] n. 普拉蒂纳斯（姓氏）
+ple [piː ɛl iː] abbr. 请（please的简写）
+plue [pluː] n. 普吕（姓氏）
+plumbed [plʌmd] v. 垂直；探测（plumb的过去式和过去分词）
+poate [ˈpoʊteɪt] v. 能（can的过去式）
+podcasters [ˈpɒdkɑːstərz] n. 播客（复数）
+pogroms [ˈpɒɡrəmz] n. 大屠杀（复数）
+polgar [ˈpɒlɡɑːr] n. 波尔加（姓氏）
+polyi [ˈpɒliaɪ] n. 聚异丁烯
+porns [pɔːrnz] n. 色情片（复数）
+possib [ˈpɒsɪb] adj. 可能的（possible的简写）
+post-Big [poʊst bɪɡ] adj. 大爆炸后的
+postdocs [ˈpoʊstdɒks] n. 博士后（复数）
+postvis [ˈpoʊstvɪz] n. 后期可视化
+pountain [ˈpaʊntɪn] n. 庞廷（姓氏）
+powerered [ˈpaʊərd] v. 供电（power的过去式和过去分词）
+pp [piː piː] abbr. 分页（pages）
+praic [preɪk] n. 普雷克（姓氏）
+prain [preɪn] n. 普雷恩（姓氏）
+praxonos [prækˈsoʊnoʊz] n. 普拉克索诺斯（姓氏）
+pre-biblical [priː ˈbɪblɪkəl] adj. 圣经时代以前的
+pre-co [priː koʊ] adj. …之前的
+pre-hindu [priː ˈhɪnduː] adj. 前印度教的
+pre-m [priː ɛm] adj. …之前的
+prea [ˈpriːə] n. 普雷亚（姓氏）
+preceden [prɪˈsiːdɛn] adj. 优先的（precedent的简写）
+preco [ˈpriːkoʊ] n. 普雷科（姓氏）
+preite [praɪt] n. 普雷特（姓氏）
+preop [ˈpriːɒp] adj. 术前的（preoperative的简写）
+prepar [prɪˈpɑːr] v. 准备（prepare的简写）
+presid [ˈprɛzɪd] n. 总统（president的简写）
+presper [ˈprɛspər] n. 普雷斯珀（姓氏）
+prestant [ˈprɛstənt] n. 普雷斯唐（姓氏）
+preten [prɪˈtɛn] v. 假装（pretend的过去式和过去分词）
+prian [ˈpraɪən] n. 普莱恩（姓氏）
+prillo [ˈprɪloʊ] n. 普里洛（姓氏）
+princi [ˈprɪnsi] n. 主要的（principal的简写）
+pris [prɪs] n. 普里斯（姓氏）
+priyam [ˈpriːjɑːm] n. 普里亚姆（男子名）
+pro-Satan [proʊ ˈseɪtən] adj.
+prob [prɒb] n. 问题（problem的简写）
+probab [ˈprɒbæb] adj. 可能的（probable的简写）
+probabilistically [ˌprɒbəbɪˈlɪstɪkli] adv. 概率上地
+procrasti [proʊˈkræsti] v. 拖延（procrastinate的简写）
+procrastin [proʊˈkræstɪn] v. 拖延（procrastinate的现在分词）
+profal [proʊˈfɑːl] n. 普罗法尔（姓氏）
+progam [ˈproʊɡæm] n. 节目（program的简写）
+proos [proʊs] n. 普罗斯（姓氏）
+propri [ˈproʊpri] adj. 专有的（proprietary的简写）
+prores [ˈproʊrɛz] n. ProRes（视频编解码器）
+prosing [ˈproʊzɪŋ] n. 散文写作
+protein-based [ˈproʊtiːn beɪst] adj. 基于蛋白质的
+protopiafutures [ˌproʊtoʊpiəˈfjuːtʃərz] n. 理想未来
+protossilius [ˌproʊtɒˈsɪliəs] n. 普罗托西利乌斯（姓氏）
+przed [prɛd] prep. 在…之前（波兰语）
+ptg [piː tiː dʒiː] abbr. 请继续（please turn to page）
+pth [piː tiː eɪtʃ] abbr. 甲状旁腺激素（parathyroid hormone）
+pthos [ˈθɒs] n. 欲望（pathos的非正式拼写）
+pting [tɪŋ] v. 指向（point的现在分词）
+ptolemae [ˈtɒləˌmiː] n. 托勒密（姓氏）
+ptolemyer [ˈtɒləˌmiːər] n. 托勒密尔（姓氏）
+ptor [tɔːr] n. 目标蛋白雷帕霉素（target of rapamycin的缩写）
+pu [puː] n. 普（姓氏）
+publ [pʌbl] n. 出版物（publication的简写）
+punching [ˈpʌntʃɪŋ] n. 冲压；拳击
+punct [pʌŋkt] n. 标点（punctuation的简写）
+purri [ˈpʊri] n. 普里（姓氏）
+pursule [ˈpɜːrsuːl] n. 珀苏尔（姓氏）
+pusing [ˈpuːsɪŋ] n. 普辛（姓氏）
+putam [puːˈtɑːm] n. 普塔姆（姓氏）
+putb [pʌtb] n. 普特布（姓氏）
+putch [pʊtʃ] n. 政变
+puty [ˈpuːti] n. 普蒂（姓氏）
+puus [puːs] n. 普斯（姓氏）
+puzzo [ˈpuːzoʊ] n. 普佐（姓氏）
+pview [ˈpiːvjuː] n. PView（软件）
+py [paɪ] abbr. Python（编程语言）
+pyus [paɪəs] n. 皮厄斯（姓氏）
+q-w-e-r [kjuː dʌbljuː iː ɑːr] abbr. 键盘（QWER键盘）
+qbit [ˈkjuːbɪt] n. 量子比特
+qdd [kjuː diː diː] abbr. 量子点显示器（Quantum Dot Display）
+qits [kɪts] n. 量子比特（复数）
+qixel [ˈkɪksəl] n. 量子像素
+qrik [krɪk] n. 克里克（姓氏）
+qu [kjuː] n. 问题（question的简写）
+quadrillions [kwɒˈdrɪljənz] n. 千的五次方（复数）
+quadrip [ˈkwɒdrɪp] n. 四足机器人
+qual [kwɒl] adj. 质量的（quality的简写）
+quanti [ˈkwɒnti] n. 量子（复数）
+quantization [ˌkwɒntaɪˈzeɪʃən] n. 量化
+quantize [ˈkwɒntaɪz] v. 量化
+questons [ˈkwɛstənz] n. 问题（复数，应为questions）
+quetzel [ˈkɛtsəl] n. 奎策尔（危地马拉货币）
+quickels [ˈkwɪkəlz] n. 奎克尔斯（姓氏）
+quicksil [ˈkwɪksɪl] n. 水银
+quimby [ˈkwɪmbi] n. 昆比（姓氏）
+quinnn [kwɪn] n. 奎恩（姓氏）
+quintelligence [kwɪnˈtɛlɪdʒəns] n. 五元智能
+quintilian [kwɪnˈtɪliən] n. 昆体良（姓氏）
+quot [kwɒt] v. 引用（quote的过去式和过去分词）
+qw [kjuː dʌbljuː] abbr. 质量周（Quality Week）
+raah [rɑː] n. 拉赫（姓氏）
+rampo [ˈræmpoʊ] n. 兰坡（姓氏）
+randham [ˈrændəm] n. 兰德姆（姓氏）
+ransomware [ˈrænsəmˌwɛər] n. 勒索软件
+raor [ˈreɪɔːr] n. 拉奥尔（姓氏）
+rashem [ˈræʃɛm] n. 拉谢姆（姓氏）
+ratez [reɪts] n. 评级（复数）
+rawls [rɔːlz] n. 罗尔斯（姓氏）
+rby [ɑːr biː waɪ] abbr. 红宝石（ruby）
+reala [riːˈɑːlə] n. 里阿拉（姓氏）
+rebalancing [riːˈbælənsɪŋ] n. 再平衡
+rebron [riːˈbrɒn] n. 里布隆（姓氏）
+reced [rɪˈsiːd] v. 后退（recede的过去式和过去分词）
+recrent [ˈrɛkrɪənt] adj. 懦弱的
+recurse [rɪˈkɜːrs] v. 递归
+reev [riːv] n. 里夫（姓氏）
+refall [riːˈfɔːl] v. 重新落下
+reflight [ˈriːflaɪt] n. 复飞
+refracted [rɪˈfræktɪd] v. 折射（refract的过去式和过去分词）
+regardle [rɪˈɡɑːrdli] adj. 不管的（regardless的非正式拼写）
+reges [ˈriːdʒiːz] n. 雷格斯（姓氏）
+registral [ˈrɛdʒɪstrəl] adj. 注册的
+relas [ˈriːlæs] n. 里拉斯（姓氏）
+rele [ˈriːli] n. 瑞乐（姓氏）
+releas [rɪˈliːs] n. 释放（release的简写）
+reli [ˈriːlaɪ] v. 依靠（rely的过去式和过去分词）
+religionists [rɪˈlɪdʒənɪsts] n. 宗教信徒（复数）
+remediate [rɪˈmiːdieɪt] v. 补救
+repainted [riːˈpeɪntɪd] v. 重新粉刷（repaint的过去式和过去分词）
+repected [rɪˈspɛktɪd] v. 尊敬（respect的过去式和过去分词）
+repres [ˈrɛprɛz] v. 代表（represent的过去式和过去分词）
+ret [rɛt] v. 浸泡（亚麻等）
+retinas [ˈrɛtɪnəz] n. 视网膜（复数）
+retos [ˈriːtoʊz] n. 雷托斯（姓氏）
+retrocausa [ˌrɛtroʊˈkɔːzə] n. 逆向因果
+reverberates [rɪˈvɜːrbəreɪts] v. 回响；反射（reverberate的第三人称单数）
+reversey [rɪˈvɜːrsi] adj. 反向的
+reys [reɪz] n. 雷耶斯（姓氏）
+rgis [ɑːr dʒiː aɪ ɛs] abbr. 注册地理信息系统（Registered Geographic Information System）
+rhi [ɑːr eɪtʃ aɪ] abbr. 伦福德马球场计划（Romford Polo Stadium Initiative）
+rifias [rɪˈfiːəz] n. 里菲亚斯（姓氏）
+rions [ˈraɪənz] n. 赖恩斯（姓氏）
+rision [ˈrɪʒən] n. 嘲笑（derision的非正式拼写）
+risk-free [rɪsk friː] adj. 无风险的
+risking [ˈrɪskɪŋ] n. 冒险
+riting [ˈraɪtɪŋ] n. 写作
+rius [ˈraɪəs] n. 里乌斯（姓氏）
+rivan [ˈraɪvən] n. 里万（姓氏）
+rivatez [ˈraɪvətɛz] n. 里瓦特兹（姓氏）
+rivendel [ˈrɪvɛndɛl] n. 瑞文戴尔（虚构地名）
+riventrop [ˈrɪvɛntrɒp] n. 里本特洛甫（姓氏）
+rivien [ˈrɪviən] n. 里维恩（姓氏）
+rivion [ˈrɪviən] n. 里维昂（姓氏）
+rjam [ɑːr dʒæm] abbr. 注册果酱（Registered Jam）
+rjis [ɑːr dʒeɪ aɪ ɛs] abbr. 注册地理信息系统（Registered Geographic Information System）
+rjs [ɑːr dʒeɪ ɛs] abbr. 注册 JavaScript（Registered JavaScript）
+robe-y [ˈroʊbi] adj. 像长袍一样的
+robertt [ˈrɒbərt] n. 罗伯特（男子名）
+robits [ˈroʊbɪts] n. 机器人（复数）
+robs [rɒbz] v. 抢劫（rob的第三人称单数）
+roin [rɔɪn] n. 罗因（姓氏）
+rol [rɒl] n. 罗尔（男子名）
+romanism [ˈroʊmənɪzəm] n. 罗马天主教
+romant [roʊˈmænt] adj. 浪漫的（romantic的简写）
+romeny [ˈrɒmɪni] n. 罗姆尼（姓氏）
+rorin [ˈrɔːrɪn] n. 罗林（姓氏）
+rosley [ˈrɒzli] n. 罗斯利（姓氏）
+roson [ˈroʊsɒn] n. 罗森（姓氏）
+rossel [ˈrɒsəl] n. 罗塞尔（姓氏）
+roundabouts [ˈraʊndəbaʊts] n. 环形交叉口（复数）
+roundt [ˈraʊndt] n. 圆桌会议（roundtable的简写）
+rouso [ˈruːsoʊ] n. 鲁索（姓氏）
+rousseau [ruːˈsoʊ] n. 卢梭（姓氏）
+rowu [ˈroʊwuː] n. 罗乌（姓氏）
+rri [ɑːr ɑːr aɪ] abbr. 注册研究机构（Registered Research Institute）
+rsus [ɑːr ɛs juː ɛs] abbr. 注册用户服务（Registered User Services）
+rth [ɑːr θ] abbr. 研究（research的简写）
+rting [ɑːrtɪŋ] n. 评级（rating的非正式拼写）
+ruach [ˈruːɑːk] n.
+rubby [ˈrʌbi] adj. 橡胶似的
+rudge [rʌdʒ] n. 拉奇（姓氏）
+ruk [rʌk] n. 鲁克（姓氏）
+rul [rʌl] n. 规则（rule的简写）
+rulle [ˈruːlə] n. 鲁勒（姓氏）
+rures [ˈruːrɪz] n. 规则（复数，应为rules）
+rusin [ˈruːsɪn] n. 鲁辛（姓氏）
+rusing [ˈruːzɪŋ] n. 诡计
+rvt [ɑːr viː tiː] abbr. 注册兽医技师（Registered Veterinary Technician）
+rypheus [ˈraɪfiːəs] n. 里菲厄斯（姓氏）
+rythius [ˈrɪθiəs] n. 里提乌斯（姓氏）
+saaks [sɑːks] n. 萨克斯（姓氏）
+saboti [səˈboʊti] n. 萨博蒂（姓氏）
+sacn [ɛs eɪ siː ɛn] abbr. 流式架构控制网络（Streaming Architecture Control Network）
+saers [sɛərz] n. 萨尔斯（姓氏）
+safeguarding [ˈseɪfɡɑːrdɪŋ] n. 保护
+safia [səˈfiːə] n. 萨菲亚（女子名）
+safy [ˈsæfi] n. 萨菲（姓氏）
+saidan [saɪˈdɑːn] n. 赛丹（姓氏）
+salana [səˈlɑːnə] n. 萨拉纳（姓氏）
+saly [ˈsæli] n. 萨利（姓氏）
+samankos [səˈmæŋkoʊz] n. 萨曼科斯（姓氏）
+samarians [səˈmɛəriənz] n. 撒玛利亚人（复数）
+samatra [səˈmɑːtrə] n. 三摩呾罗（古印度地名）
+samees [səˈmiːz] n. 萨米斯（姓氏）
+samnia [ˈsæmniə] n. 萨姆尼亚（古意大利地名）
+samuru [səˈmuːruː] n. 萨穆鲁（姓氏）
+sanr [sæn ɑːr] abbr. 可持续农业和自然资源（Sustainable Agriculture and Natural Resources）
+sapi [ˈsæpi] n. 萨皮（姓氏）
+sarahi [səˈrɑːhi] n. 萨拉希（姓氏）
+sarpadon [sɑːrˈpɑːdɒn] n. 萨尔帕冬（希腊神话人物）
+satanists [ˈseɪtənɪsts] n.
+satera [səˈtɛərə] n. 萨泰拉（姓氏）
+satura [ˈsætʃərə] n. 萨图拉（姓氏）
+saww [sɔː] v. 锯（saw的过去式和过去分词）
+saysi [ˈseɪziː] n. 赛西（姓氏）
+scenc [sɛns] n. 场景（scene的简写）
+sceni [ˈsɛni] n. 风景（scenic的简写）
+schem [ʃɛm] n. 方案（scheme的简写）
+schinsky [ʃɪnˈski] n. 申斯基（姓氏）
+schle [ʃliː] n. 施勒（姓氏）
+scho [ʃoʊ] n. 学校（school的简写）
+schotsky [ˈʃɒtski] n. 肖茨基（姓氏）
+schwab [ʃwɑːb] n. 施瓦布（姓氏）
+sck [ɛs siː keɪ] abbr. 磺胺嘧啶-氯喹-氯苯那敏（Sulfadiazine-Chloroquine-Chlorpheniramine）
+scorpid [ˈskɔːrpɪd] n. 蝎子
+scorro [ˈskɒroʊ] n. 斯科罗（姓氏）
+scra [ˈskrɑː] n. 斯克拉（姓氏）
+scrib [skraɪb] n. 书记员（scribe的简写）
+scrutin [ˈskruːtɪn] v. 仔细检查（scrutinize的简写）
+sdap [ɛs diː eɪ piː] abbr. 可持续数字农业平台（Sustainable Digital Agriculture Platform）
+searates [ˈsiːəreɪts] n. 海盗（复数）
+sebs [sɛbz] n. 塞布斯（姓氏）
+sedante [sɛˈdɑːnti] n. 塞丹特（姓氏）
+seeth [siːθ] v. 沸腾
+sefel [ˈsɛfəl] n. 塞费尔（姓氏）
+seidenfeld [ˈsaɪdənfɛld] n. 赛登菲尔德（姓氏）
+seille [sɛl] n. 塞耶河（法国河流）
+selden [ˈsɛldən] n. 塞尔登（姓氏）
+self-maximizing [sɛlf ˈmæksɪmaɪzɪŋ] adj. 自我最大化的
+self-simulating [sɛlf ˈsɪmjʊleɪtɪŋ] adj. 自我模拟的
+self-simulation [sɛlf ˌsɪmjʊˈleɪʃən] n. 自我模拟
+sellar [ˈsɛlər] n. 塞勒（姓氏）
+sence [sɛns] n. 感觉（sense的简写）
+senica [ˈsɛnɪkə] n. 塞尼卡（姓氏）
+sentes [ˈsɛntiːz] n. 森特斯（姓氏）
+seod [ˈsiːɒd] n. 西奥德（姓氏）
+septe [sɛpt] n. 隔膜
+seron [ˈsɛərɒn] n. 塞伦（姓氏）
+sers [sɜːrz] n. 瑟斯（姓氏）
+sesshin [ˈsɛʃɪn] n.
+sest [sɛst] n. 塞斯特（姓氏）
+sethy [ˈsɛθi] n. 塞西（姓氏）
+shakesp [ˈʃeɪksp] n. 莎士比亚（Shakespeare的简写）
+shalant [ʃəˈlænt] n. 沙兰特（姓氏）
+sharan [ˈʃærən] n. 沙兰（姓氏）
+shatov [ʃæˈtɒv] n. 沙托夫（姓氏）
+she-warf [ʃiː wɔːrf] n. 女战士
+shelle [ʃɛl] n. 谢尔（姓氏）
+shensong [ʃɛnˈsɒŋ] n. 神宗（中国皇帝）
+shenzong [ʃɛnˈzɒŋ] n. 神宗（中国皇帝）
+shepherding [ˈʃɛpərdɪŋ] n. 引导；牧养
+shiblets [ˈʃɪblɪts] n. 习语（复数）
+shinglu [ˈʃɪŋɡluː] n. 辛格鲁（姓氏）
+shoing [ˈʃoʊɪŋ] n. 展示（showing的非正式拼写）
+shra [ʃrɑː] n. 什拉（姓氏）
+shw [ɛʃ dʌbljuː] abbr. 沙瓦（姓氏）
+sidan [ˈsaɪdæn] n. 赛丹（姓氏）
+sightings [ˈsaɪtɪŋz] n. 目击事件（复数）
+siid [ˈsaɪɪd] n. 赛德（姓氏）
+silico [ˈsɪlɪkoʊ] adj. 硅的；计算机模拟的
+silverhorn [ˈsɪlvərhɔːrn] n. 西尔弗霍恩（姓氏）
+simonics [saɪˈmɒnɪks] n. 西蒙尼克斯（姓氏）
+simplif [ˈsɪmplɪf] v. 简化（simplify的过去式和过去分词）
+simulators [ˈsɪmjʊleɪtərz] n. 模拟器（复数）
+simultan [sɪˈmʌltən] adj. 同时的（simultaneous的简写）
+simultane [ˌsɪməlˈteɪn] adj. 同时的（simultaneous的简写）
+sinkfield [ˈsɪŋkfild] n. 辛克菲尔德（姓氏）
+sinon [ˈsaɪnɒn] n. 西农（希腊神话人物）
+skoric [ˈskɔːrɪk] n. 斯科里克（姓氏）
+skur [skɜːr] n. 斯库尔（姓氏）
+skywat [ˈskaɪwɒt] n. 斯凯沃特（姓氏）
+slaughterhouses [ˈslɔːtərhaʊzɪz] n. 屠宰场（复数）
+sleo [ˈsliːoʊ] n. 斯莱奥（姓氏）
+sliber [ˈslaɪbər] n. 斯莱伯（姓氏）
+slighted [ˈslaɪtɪd] v. 轻视（slight的过去式和过去分词）
+smeared [smɪərd] v. 涂抹；诽谤（smear的过去式和过去分词）
+snackco [ˈsnækkoʊ] n. 斯耐科（公司）
+sneesh [sniːʃ] n. 斯尼什（姓氏）
+snoody [ˈsnuːdi] adj. 势利的
+snowys [ˈsnoʊiz] n. 雪（复数）
+soas [ˈsoʊæs] n. 面向服务的架构（复数）
+sobote [səˈboʊti] n. 索博特（姓氏）
+socalled [ˈsoʊkɔːld] adj. 所谓的
+societ [ˈsoʊsiɪt] n. 社会（society的简写）
+sociologically [ˌsoʊsiəˈlɒdʒɪkli] adv. 社会学上地
+sociopathy [ˌsoʊsiˈɒpəθi] n. 反社会人格障碍
+sodello [səˈdɛloʊ] n. 索代洛（姓氏）
+sodomites [ˈsɒdəmaɪts] n.
+soed [soʊd] v. 播种（sow的过去式）
+soent [ˈsoʊɛnt] n. 索恩特（姓氏）
+sof [sɒf] n. 软件（software的简写）
+soilent [ˈsɔɪlənt] n. 索伦特（公司）
+somis [ˈsoʊmɪs] n. 索米斯（姓氏）
+somnis [ˈsɒmnɪs] n. 索姆尼斯（姓氏）
+somu [ˈsoʊmuː] n. 索穆（姓氏）
+sonai [soʊˈnaɪ] n. 索奈（姓氏）
+sonatus [soʊˈnɑːtəs] n. 索纳图斯（姓氏）
+sonel [soʊˈnɛl] n. 索内尔（姓氏）
+sooo [ˈsoʊoʊ] adv. 非常（so的强调）
+soore [sɔːr] n. 疮（sore的非正式拼写）
+sooti [ˈsuːti] n. 苏蒂（姓氏）
+sordello [sɔːrˈdɛloʊ] n. 索尔代洛（姓氏）
+spak [spæk] n. 斯帕克（姓氏）
+spands [spændz] n. 跨度（复数）
+speced [spɛkt] v. 详细说明（spec的过去式和过去分词）
+spheroidal [sfɪəˈrɔɪdl] adj. 球状的
+spinoza [spɪˈnoʊzə] n. 斯宾诺莎（姓氏）
+spione [spiˈoʊni] n. 间谍（意大利语）
+spiten [ˈspaɪtn] n. 斯皮滕（姓氏）
+spitzen [ˈʃpɪtsən] n. 斯皮岑（姓氏）
+spner [ˈspɪnər] n. 斯皮纳（姓氏）
+spok [spɒk] n. 斯波克（姓氏）
+sponsorike [spɒnˈsɔːraɪk] n. 赞助商
+spooked [spuːkt] v. 吓坏（spook的过去式和过去分词）
+sq [ɛs kjuː] abbr. 平方（square）
+srant [srænt] n. 斯兰特（姓氏）
+srgb [ɛs ɑːr dʒiː biː] abbr. 标准红绿蓝色彩空间（Standard Red Green Blue）
+srut [srʌt] n. 斯鲁特（姓氏）
+sshi [ɛs ɛs eɪtʃ aɪ] abbr. 安全外壳协议（Secure Shell）
+ssris [ɛs ɛs ɑːr aɪz] abbr. 选择性 5-羟色胺再摄取抑制剂（Selective Serotonin Reuptake Inhibitors）
+staken [ˈsteɪkən] v. 用桩支撑（stake的过去式和过去分词）
+stallman [ˈstɔːlmən] n. 斯托尔曼（姓氏）
+stalma [ˈstælmə] n. 斯塔尔马（姓氏）
+stanowski [stəˈnaʊski] n. 斯坦诺夫斯基（姓氏）
+stargazing [ˈstɑːrɡeɪzɪŋ] n. 观星
+statius [ˈsteɪʃiəs] n. 斯塔提乌斯（姓氏）
+stav [stɑːv] n. 斯塔夫（姓氏）
+stavis [ˈsteɪvɪs] n. 斯塔维斯（姓氏）
+staviski [stəˈvɪski] n. 斯塔维斯基（姓氏）
+stegner [ˈstɛɡnər] n. 斯泰格纳（姓氏）
+stephens [ˈstiːvənz] n. 斯蒂芬斯（姓氏）
+stephenson [ˈstiːvənsən] n. 斯蒂芬森（姓氏）
+stepsat [ˈstɛpsæt] n. 步态分析
+sters [stɜːrz] n. …者（后缀，复数）
+stic [stɪk] adj. …的（后缀）
+stimson [ˈstɪmsən] n. 斯廷森（姓氏）
+stoed [stoʊd] v. 站立（stand的过去式）
+stoer [ˈstoʊər] n. 斯托尔（姓氏）
+stoft [stɒft] n. 斯托夫特（姓氏）
+stoics [ˈstoʊɪks] n. 斯多葛派（复数）
+stoix [stɔɪks] n. 斯托伊克斯（姓氏）
+stor [stɔːr] n. 斯托尔（姓氏）
+storess [ˈstɔːrɪz] n. 商店（复数，应为stores）
+stos [stoʊs] n. 斯托斯（姓氏）
+straint [streɪnt] adj. 紧张的（strained的非正式拼写）
+straum [straʊm] n. 斯特劳姆（姓氏）
+striber [ˈstraɪbər] n. 斯特赖伯（姓氏）
+stricks [strɪks] n. 斯垂克斯（姓氏）
+stries [straɪz] n. 行业（复数，应为industries）
+striven [ˈstrɪvən] v. 努力（strive的过去分词）
+strix [strɪks] n. 斯垂克斯（姓氏）
+stru [struː] n. 结构（structure的简写）
+struction [ˈstrʌkʃən] n. 结构（structure的简写）
+stup [stʌp] n. 斯图普（姓氏）
+suas [ˈsuːəs] n. 苏亚斯（姓氏）
+subc [sʌbk] n. 潜艇（submarine的简写）
+subcultures [ˈsʌbkʌltʃərz] n. 亚文化（复数）
+subsample [ˈsʌbsɑːmpl] n. 子样本
+subsex [ˈsʌbsɛks] n. 亚性别
+subtra [səbˈtrɑː] v. 减去（subtract的过去式和过去分词）
+sucas [ˈsuːkəs] n. 苏卡斯（姓氏）
+succumbs [səˈkʌmz] v. 屈服（succumb的第三人称单数）
+sudworth [ˈsʌdwɜːrθ] n. 萨德沃斯（姓氏）
+sule [suːl] n. 苏勒（姓氏）
+sumini [suːˈmiːni] n. 苏米尼（姓氏）
+sunu [ˈsuːnuː] n. 苏努（姓氏）
+sunyata [ʃuːnˈjɑːtə] n.
+sunzo [ˈsʌnzoʊ] n. 孙邹（姓氏）
+sunzu [ˈsʌnˈzuː] n. 孙子（姓氏）
+supercharge [ˈsuːpərtʃɑːrdʒ] v. 增压；使更强大
+superos [suːˈpɛəroʊz] n. 苏佩罗斯（姓氏）
+superum [ˈsuːpərəm] n. 苏佩鲁姆（姓氏）
+surger [ˈsɜːrdʒər] n. 外科医生（surgeon的简写）
+surp [sɜːrp] n. 惊喜（surprise的简写）
+surpris [sərˈpraɪz] v. 使惊讶（surprise的过去式和过去分词）
+surveil [sərˈveɪl] v. 监视（surveil的过去式和过去分词）
+susai [suːˈsaɪ] n. 苏赛（姓氏）
+sushima [suːˈʃiːmə] n. 苏希马（姓氏）
+sutras [ˈsuːtrəz] n. 经文（复数）
+sv [ɛs viː] abbr. 瑞典（Sweden）
+svb [ɛs viː biː] abbr. 硅谷银行（Silicon Valley Bank）
+svod [svɒd] n. 斯沃德（姓氏）
+swee [swiː] n. 斯威（姓氏）
+swort [swɔːrt] n. 斯沃特（姓氏）
+syate [ˈsaɪeɪt] n. 赛亚特（姓氏）
+sybil [ˈsɪbɪl] n. 西比尔（女子名）
+syk [saɪk] n. 赛克（姓氏）
+syncratic [sɪŋˈkrætɪk] adj. 融合的
+syndro [ˈsɪndroʊ] n. 综合症（syndrome的简写）
+syndroms [ˈsɪndrɒmz] n. 综合症（复数，应为syndromes）
+synect [sɪˈnɛkt] n. 西内克特（姓氏）
+taags [tɑːɡz] n. 塔格斯（姓氏）
+tabarak [təˈbɑːrək] n. 塔巴拉克（姓氏）
+tabro [ˈtɑːbroʊ] n. 塔布罗（姓氏）
+taibi [taɪˈiːbi] n. 泰比（姓氏）
+taimana [taɪˈmɑːnə] n. 泰马纳（姓氏）
+takee [təˈkiː] n. 塔基（姓氏）
+tangibly [ˈtændʒəbli] adv. 可触摸地；明显地
+taong [ˈtɑːɒŋ] n. 塔翁（姓氏）
+tarell [təˈrɛl] n. 塔雷尔（姓氏）
+tarity [ˈtærɪti] n. 塔里蒂（姓氏）
+techies [ˈtɛkiz] n. 技术人员（复数）
+technocratic [ˌtɛknəˈkrætɪk] adj. 技术官僚的
+telec [ˈtɛlɛk] n. 电信（telecommunication的简写）
+teleco [ˈtɛlɪkoʊ] n. 电信公司（telecommunication company的简写）
+telecrecursion [ˌtɛlɪkrɪˈkɜːrʒən] n. 远程递归
+telesis [ˈtɛlɪsɪs] n. 有目的的进展
+telic [ˈtɛlɪk] adj. 目的性的
+telors [ˈtɛlɔːrz] n. 特洛尔斯（姓氏）
+tesseract [ˈtɛsərækt] n. 超正方体
+theist [ˈθiːɪst] n. 有神论者
+theistic [θiːˈɪstɪk] adj. 有神论的
+themometer [θəˈmɒmɪtər] n. 温度计（误拼，应为thermometer）
+tilts [tɪlts] n. 倾斜（复数）
+toiba [tɔɪˈbɑː] n. 托伊巴（姓氏）
+touche [tuːˈʃeɪ] interj. （击剑用语）触碰得分；说得对
+trainings [ˈtreɪnɪŋz] n. 培训（复数）
+transduced [trænsˈdjuːst] v. 转换；转导（transduce的过去式和过去分词）
+transduces [trænsˈdjuːsɪz] v. 转换；转导（transduce的第三人称单数）
+transhumanism [trænzˈhjuːmənɪzəm] n. 超人类主义
+transubstantiated [ˌtrænsəbˈstænʃieɪtɪd] v. 使…变体（transubstantiate的过去式和过去分词）
+transversal [trænzˈvɜːrsəl] adj. 横向的
+traversable [ˈtrævərsəbl] adj. 可穿越的
+trolled [troʊld] v. 恶搞；拖钓（troll的过去式和过去分词）
+turi [ˈtʊəri] n. 图里（姓氏）
+two-three [tuː θriː] adj. 二三的
+unchivalrous [ʌnˈʃɪvəlrəs] adj. 不骑士风度的
+uncross [ʌnˈkrɒs] v. 展开；使不交叉
+undecidability [ˌʌndɪˈsaɪdəbɪlɪti] n. 不可判定性
+undergone [ˌʌndərˈɡɒn] v. 经历（undergo的过去分词）
+unfriend [ʌnˈfrɛnd] v. 删除好友
+unhackable [ʌnˈhækəbl] adj. 不可黑客入侵的
+univers [ˈjuːnɪvɜːrs] n. 宇宙（universe的简写）
+unneighborly [ʌnˈneɪbərli] adj. 不睦邻的
+unon [ˈʌnɒn] n. 乌农（姓氏）
+unplugging [ʌnˈplʌɡɪŋ] v. 拔掉插头
+unque [ʌŋk] adj. 独特的（unique的非正式拼写）
+unre [ʌnˈriː] adj. 不真实的（unreal的简写）
+unsu [ˈʌnsuː] n. 云手（空手道术语）
+unte [ˈʌnti] n. 昂特（姓氏）
+untone [ʌnˈtoʊn] n. 安东（姓氏）
+untroubled [ʌnˈtrʌbld] adj. 不受困扰的
+uo [juː oʊ] abbr. 大学肄业（University肄业）
+upy [ˈʌpi] n. 阿皮（姓氏）
+usea [juːz iː eɪ] abbr. 美国教育协会（United States Education Association）
+uset [juːz ɛt] n. 尤塞特（姓氏）
+usus [ˈjuːzəs] n. 尤苏斯（姓氏）
+usze [ʌs ziː] n. 乌斯泽（姓氏）
+utar [ˈjuːtɑːr] n. 乌塔尔（姓氏）
+utha [ˈjuːθə] n. 尤瑟（姓氏）
+utic [ˈjuːtɪk] adj. …的（后缀）
+uu [juː juː] abbr. 犹他大学（University of Utah）
+uved [juːvd] adj. 紫外线的（ultraviolet的简写）
+uvw [juː viː dʌbljuː] abbr. 紫外线-可见光-无线电波（Ultraviolet-Visible-Radio）
+v-buck [viː bʌk] n. V币（游戏货币）
+vabar [ˈvɑːbɑːr] n. 瓦巴尔（姓氏）
+vaccines [ˈvæksiːnz] n. 疫苗（复数）
+vad [væd] n. 瓦德（姓氏）
+vany [ˈvæni] n. 瓦尼（姓氏）
+vardy [ˈvɑːrdi] n. 瓦尔迪（姓氏）
+vario [ˈvɛərioʊ] n. 瓦里奥（姓氏）
+vasik [ˈvɑːsɪk] n. 瓦西克（姓氏）
+vaspar [ˈvæspɑːr] n. 瓦斯帕尔（姓氏）
+vaster [ˈvɑːstər] adj. 更广阔的（vaster的比较级）
+vber [viː biː iː ɑːr] abbr. 视频误码率（Video Bit Error Rate）
+vcash [viː kæʃ] n. V现金
+vedic [ˈveɪdɪk] adj. 吠陀的
+veloped [ˈvɛləpt] v. 发展（develop的过去式和过去分词）
+velopment [ˈvɛləpmənt] n. 发展（development的非正式拼写）
+velosa [vəˈloʊsə] n. 韦洛萨（姓氏）
+venedico [ˌvɛnɪˈdiːkoʊ] n. 韦内迪科（姓氏）
+venkatesh [ˈvɛŋkətɛʃ] n. 文卡特什（男子名）
+ventory [ˈvɛntəri] n. 库存（inventory的简写）
+venu [ˈvɛnuː] n. 韦努（男子名）
+verality [vəˈræləti] n. 真实性
+verdang [vərˈdæŋ] n. 韦尔当（姓氏）
+vered [ˈvɛrɛd] n. 韦雷德（姓氏）
+verer [ˈvɛərər] n. 韦勒尔（姓氏）
+verifying [ˈvɛrɪfaɪɪŋ] v. 核实（verify的现在分词）
+vering [ˈvɛərɪŋ] n. 费尔林（姓氏）
+verson [ˈvɜːrsən] n. 弗森（姓氏）
+vesa [ˈvɛsə] n. 韦萨（姓氏）
+vesh [vɛʃ] n. 韦什（姓氏）
+vetoing [ˈviːtoʊɪŋ] v. 否决（veto的现在分词）
+veton [ˈviːtɒn] n. 韦通（姓氏）
+vg [viː dʒiː] abbr. 蔬菜甘油（vegetable glycerin）
+vicker [ˈvɪkər] n. 维克（姓氏）
+vifer [ˈvaɪfər] n. 维弗（姓氏）
+vijo [ˈviːdʒoʊ] n. 维霍（姓氏）
+vill [vɪl] n. 村庄（village的简写）
+vinu [ˈviːnuː] n. 维努（男子名）
+viously [ˈɒvɪəsli] adv. 明显地（obviously的非正式拼写）
+virual [ˈvɜːrtʃuəl] adj. 虚拟的（virtual的误拼）
+vis-dev [vɪz dɛv] n. 视觉开发（visual development）
+visualiz [ˈvɪʒuəlaɪz] v. 可视化（visualize的过去式和过去分词）
+vity [ˈvaɪti] n. 维蒂（姓氏）
+vivaldi [vɪˈvɑːldi] n. 维瓦尔第（姓氏）
+vivendi [vɪˈvɛndi] n. 维旺迪（公司）
+vo [viː oʊ] abbr. 越南（Vietnam）
+vocus [ˈvoʊkəs] n. 沃库斯（公司）
+voicea [vɔɪˈsiːə] n. 沃伊恰（姓氏）
+voler [voʊˈlɛər] n. 沃勒尔（姓氏）
+volun [ˈvɒlən] n. 沃伦（姓氏）
+voxal [ˈvɒksəl] adj. 体素的
+vpns [viː piː ɛnz] abbr. 虚拟专用网络（Virtual Private Networks）
+vport [ˈviːpɔːrt] n. V端口
+vram [viː ræm] n. 显存
+vrm [viː ɑːr ɛm] abbr. 虚拟现实建模（Virtual Reality Modeling）
+vssm [viː ɛs ɛs ɛm] abbr. 越南社会主义共和国（Vietnam Socialist Republic）
+vunda [ˈvʌndə] n. 文达（姓氏）
+wa [wɑː] n. 佤邦（缅甸地名）
+wadeskin [ˈweɪdskɪn] n. 韦德斯金（姓氏）
+wallensky [wəˈlɛnski] n. 瓦伦斯基（姓氏）
+warrn [wɔːrn] n. 沃恩（姓氏）
+warwell [ˈwɔːrwɛl] n. 沃韦尔（姓氏）
+wasami [wəˈsɑːmi] n. 瓦萨米（姓氏）
+wasik [ˈwɑːsɪk] n. 沃西克（姓氏）
+wble [dʌbljuː biː ɛl iː] abbr. 世界篮球联赛（World Basketball League）
+wc [dʌbljuː siː] abbr. 厕所（water closet）
+wck [dʌbljuː siː keɪ] abbr. 世界中央厨房（World Central Kitchen）
+wcw [dʌbljuː siː dʌbljuː] abbr. 世界冠军摔跤（World Championship Wrestling）
+wd [dʌbljuː diː] abbr. 西部数据公司（Western Digital）
+weapo [ˈwɛpoʊ] n. 武器（weapon的简写）
+weaponizing [ˈwɛpənaɪzɪŋ] v. 武器化
+weasa [wiːˈɑːsə] n. 韦萨（姓氏）
+webg [wɛbdʒiː] abbr. 网络地理（Web Geography）
+wec [dʌbljuː iː siː] abbr. 世界耐力锦标赛（World Endurance Championship）
+wef [dʌbljuː iː ɛf] abbr. 世界经济论坛（World Economic Forum）
+welc [wɛlk] v. 欢迎（welcome的简写）
+wereing [ˈwɪərɪŋ] v. 磨损（wear的现在分词）
+westerford [ˈwɛstərfɔːrd] n. 韦斯特福德（姓氏）
+wfront [dʌbljuː frʌnt] n. 西线（western front的简写）
+whever [ˈwɛvər] pron. 无论哪个（whatever的非正式拼写）
+whm [dʌbljuː eɪtʃ ɛm] abbr. 世界人道主义运动（World Humanitarian Movement）
+whmo [ˈwɪmoʊ] n. 维摩（公司）
+whoo [huː] interj. 哇喔（感叹词）
+whoy [ˈhuːi] n. 胡伊（姓氏）
+whtat [wɒt ˈæt] pron. 什么那个（what that的缩写）
+whue [hjuː] n. 休（姓氏）
+wian [ˈwiːən] n. 维安（姓氏）
+wijit [ˈwɪdʒɪt] n. 维吉特（姓氏）
+williiam [ˈwɪljəm] n. 威廉（男子名）
+willower [ˈwɪloʊər] n. 柳树
+wim [wɪm] n. 维姆（男子名）
+winow [ˈwɪnoʊ] n. 维诺（姓氏）
+wiou [ˈwaɪoʊ] n. 维欧（姓氏）
+withco [ˈwɪθkoʊ] n. 威思科（姓氏）
+wna [dʌbljuː ɛn eɪ] abbr. 世界核协会（World Nuclear Association）
+wnc [dʌbljuː ɛn siː] abbr. 世界自然保护大会（World Nature Congress）
+wner [ˈʌnər] n. 拥有者（owner的非正式拼写）
+wobbled [ˈwɒbld] v. 摇晃（wobble的过去式和过去分词）
+wobblies [ˈwɒbliz] n. 世界产业工人组织成员（复数）
+wol [wɒl] n. 沃尔（姓氏）
+wome [woʊm] n. 女人（woman的非正式拼写）
+woodpeckers [ˈwʊdpɛkərz] n. 啄木鸟（复数）
+woodwolf [ˈwʊdwʊlf] n. 林狼
+wooe [wuː] n. 伍（姓氏）
+woong [wʊŋ] n. 翁（姓氏）
+wordl [wɜːrdl] n. 猜字游戏
+wormal [ˈwɔːrməl] adj. 蠕虫状的
+wormholes [ˈwɜːrmhoʊlz] n. 虫洞（复数）
+wouldd [wʊd] v. 将会（would的过去式和过去分词）
+wpo [dʌbljuː piː oʊ] abbr. 世界包装组织（World Packaging Organisation）
+wrer [dʌbljuː ɑːr iː ɑːr] abbr. 世界宗教教育资源（World Religious Education Resources）
+wri [dʌbljuː ɑːr aɪ] abbr. 世界资源研究所（World Resources Institute）
+wrri [dʌbljuː ɑːr ɑːr aɪ] abbr. 世界资源研究所（World Resources Research Institute）
+wtcn [dʌbljuː tiː siː ɛn] abbr. 世界贸易中心网络（World Trade Center Network）
+wter [ˈdʌbljuːtər] n. 水（water的非正式拼写）
+wther [ˈwɛðər] n. 天气（weather的非正式拼写）
+wuan [wuːˈɑːn] n. 吴安（姓氏）
+wuen [wuːˈɛn] n. 吴恩（姓氏）
+wuk [wʊk] n. 吴克（姓氏）
+wuo [wuːˈoʊ] n. 吴欧（姓氏）
+wuu [wuː] n. 吴语
+wuyu [wuːˈjuː] n. 吴语
+wve [dʌbljuː viː iː] abbr. 世界兽医教育（World Veterinary Education）
+wwan [dʌbljuː dʌbljuː eɪ ɛn] abbr. 无线广域网（Wireless Wide Area Network）
+wway [dʌbljuː dʌbljuː eɪ waɪ] abbr. 世界青年之路（World Youth Way）
+wwt [dʌbljuː dʌbljuː tiː] abbr. 世界野生动物基金会（World Wildlife Fund）
+wyar [ˈwaɪər] n. 怀尔（姓氏）
+wyw [dʌbljuː waɪ dʌbljuː] abbr. 无论你说什么（whatever you say）
+xl [ɛks ɛl] abbr. 超大号（extra large）
+xong [zɒŋ] n. 宋（姓氏）
+xt [ɛks tiː] abbr. 扩展技术（eXtended Technology）
+xxxxx [ɛks ɛks ɛks ɛks ɛks] n. XXXXX（占位符）
+y-frame [waɪ freɪm] n. Y型框架
+y-t-h-o-n [waɪ tiː eɪtʃ oʊ ɛn] abbr. 年轻人的（youngsters的简写）
+ya [jɑː] interj. 呀（感叹词）
+yahia [jɑːˈhiːə] n. 叶海亚（男子名）
+yahu [ˈjɑːhuː] n. 雅虎
+yakabuga [ˌjɑːkəˈbuːɡə] n. 雅卡布加（姓氏）
+yakan [ˈjɑːkən] n. 雅坎（姓氏）
+yakim [jəˈkiːm] n. 雅基姆（男子名）
+yakta [ˈjɑːktə] n. 雅克塔（姓氏）
+yamahaads [ˌjɑːməˈhɑːædz] n. 雅马哈广告（复数）
+yanara [jəˈnɑːrə] n. 亚纳拉（姓氏）
+yangang [jɑːŋˈɡɑːŋ] n. 洋港（姓氏）
+yangsen [ˈjɑːŋsɛn] n. 杨森（姓氏）
+yanis [ˈjɑːnɪs] n. 亚尼斯（男子名）
+yansi [ˈjɑːnsi] n. 延斯（姓氏）
+yanzi [ˈjɑːnzi] n. 燕子（姓氏）
+yapa [jəˈpɑː] n. 雅帕（姓氏）
+yarma [ˈjɑːrmə] n. 亚尔马（姓氏）
+yashonik [jəˈʃɒnɪk] n. 亚绍尼克（姓氏）
+yasuji [jəˈsuːdʒi] n. 亚苏吉（姓氏）
+yaten [ˈjɑːtɛn] n. 亚滕（姓氏）
+yatsen [ˈjɑːtsɛn] n. 逸仙（姓氏）
+yayasa [jəˈjɑːsə] n. 雅亚萨（姓氏）
+ycee [waɪ siː iː] abbr. 青年保守党环境运动（Young Conservatives for Clean Energy）
+yearl [ˈjɪərl] n. 年刊（yearbook的简写）
+yese [ˈjɛsi] n. 叶塞（姓氏）
+yeses [ˈjɛsɪz] n. 是的（复数）
+yeus [juːz] n. 尤斯（姓氏）
+yingan [jɪŋˈɡɑːn] n. 英安（姓氏）
+yink [jɪŋk] n. 因克（姓氏）
+ynam [ˈaɪnæm] n. 伊纳姆（姓氏）
+yokono [joʊˈkoʊnoʊ] n. 洋子（姓氏）
+yongi [ˈjɒŋɡi] n. 永吉（姓氏）
+yosity [jɒˈsaɪti] n. 约西蒂（姓氏）
+yosua [ˈjɒʃuːə] n. 约书亚（男子名）
+youi [ˈjuːaɪ] n. 尤伊（姓氏）
+ypp [waɪ piː piː] abbr. 青年专业人士计划（Young Professionals Program）
+zalinski [zəˈlɪnski] n. 扎林斯基（姓氏）
+zalinsky [zəˈlɪnski] n. 扎林斯基（姓氏）
+zdp [ziː diː piː] abbr. 零数据包丢失（Zero Data Packet Loss）
+zelensky [zɛˈlɛnski] n. 泽连斯基（姓氏）
+ziner [ˈzaɪnər] n. 齐纳（姓氏）
+zo [zoʊ] n. 佐（男子名）
+zolin [ˈzoʊlɪn] n. 佐林（姓氏）
+zor [zɔːr] n. 佐尔（姓氏）
+zura [ˈzʊərə] n. 祖拉（姓氏）
+zx [ziː ɛks] abbr. ZX（汽车型号）
+zy [zaɪ] n. 齐（姓氏）
+zygo [ˈzaɪɡoʊ] n. 齐戈（姓氏）
