@@ -21,7 +21,7 @@ const argv = yargs(hideBin(process.argv))
     .argv;
 
 // Function to parse dictionary line into word and content
-const parseDictionaryLine = (line) => {
+const parseDictionaryLine_basic = (line) => {
     // Handle both "word:" and "word :" formats
     const match = line.match(/^([^:]+)\s*:/);
     if (match) {
@@ -34,19 +34,43 @@ const parseDictionaryLine = (line) => {
     return null;
 };
 
+const parseDictionaryLine_simple = (line) => {
+    // Match pattern: word (including hyphens) [pronunciation] rest_of_content
+    const match = line.match(/^([\w-]+)\s+\[/);
+    if (match) {
+        const word = match[1].trim();
+        return {
+            word,
+            content: line
+        };
+    }
+    // Debug logging
+    console.log(`Failed to parse: "${line}"`);
+    return null;
+};
+
+// ...existing code...
 // Function to read and parse dictionary file
 const readDictionary = (filePath) => {
+    console.log(`Reading dictionary from ${filePath}`);
     const content = fs.readFileSync(filePath, 'utf8');
-    const lines = content.split('\n').filter(line => line.trim());
+    const lines = content
+        .split('\n')
+        .filter(line => line.trim().length > 0);
+    
+    console.log(`Total lines in ${filePath}: ${lines.length}`);
     const wordMap = new Map();
 
-    lines.forEach(line => {
-        const parsed = parseDictionaryLine(line);
+    lines.forEach((line, index) => {
+        const parsed = parseDictionaryLine_simple(line);
         if (parsed) {
-            wordMap.set(parsed.word, parsed.content);
+            wordMap.set(parsed.word.toLowerCase(), parsed.content); // Normalize to lowercase
+        } else {
+            console.log(`Warning: Could not parse line ${index + 1}: ${line} in ${filePath}`);
         }
     });
 
+    console.log(`Total words in ${filePath}: ${wordMap.size}`);
     return wordMap;
 };
 
