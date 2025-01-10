@@ -49,6 +49,21 @@ const parseDictionaryLine_simple = (line) => {
     return null;
 };
 
+const parseDictionaryLine = (line) => {
+   // Match only word with optional hyphens
+   const match = line.match(/^([a-zA-Z]+(?:-[a-zA-Z]+)*)$/);
+   if (match) {
+       const word = match[1].trim().toLowerCase();
+       return {
+           word,
+           content: line
+       };
+   }
+   
+   console.log(`Failed to parse line: "${line}"`);
+   return null;
+};
+
 // ...existing code...
 // Function to read and parse dictionary file
 const readDictionary = (filePath) => {
@@ -62,7 +77,7 @@ const readDictionary = (filePath) => {
     const wordMap = new Map();
 
     lines.forEach((line, index) => {
-        const parsed = parseDictionaryLine_simple(line);
+        const parsed = parseDictionaryLine(line);
         if (parsed) {
             wordMap.set(parsed.word.toLowerCase(), parsed.content); // Normalize to lowercase
         } else {
@@ -80,12 +95,13 @@ const baseDict = readDictionary(file1);
 const compareDict = readDictionary(file2);
 
 let newWordsCount = 0;
-
+const newWords = []; // Track new words
 // Compare and combine dictionaries
 for (const [word, content] of compareDict) {
     if (!baseDict.has(word)) {
         baseDict.set(word, content);
         newWordsCount++;
+        newWords.push(word); // Add to new words list
     }
 }
 
@@ -93,5 +109,8 @@ for (const [word, content] of compareDict) {
 const output = Array.from(baseDict.values()).join('\n');
 fs.writeFileSync(argv.out, output);
 
+// Write diff file with new words
+const diffPath = './diff.txt';
+fs.writeFileSync(diffPath, newWords.sort().join('\n'));
 console.log(`Processing complete:`);
 console.log(`Total new words added: ${newWordsCount}`);

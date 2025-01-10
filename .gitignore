@@ -1,1 +1,4 @@
 /node_modules
+all_*
+combine_new*
+diff*
