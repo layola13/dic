@@ -63,6 +63,22 @@ const parseDictionaryLine = (line) => {
    console.log(`Failed to parse line: "${line}"`);
    return null;
 };
+const parseDictionaryLine_simple2 = (line) => {
+    // Match:
+    // 1. word/phrase [pronunciation] definition
+    // 2. word/phrase only
+    const match = line.match(/^([a-zA-Z-]+(?:\s+[a-zA-Z-]+)*)(?:\s+\[.*\].*|$)/);
+    if (match) {
+        const word = match[1].trim().toLowerCase();
+        return {
+            word,
+            content: line
+        };
+    }
+    // Debug logging
+    console.log(`Failed to parse: "${line}"`);
+    return null;
+};
 
 // ...existing code...
 // Function to read and parse dictionary file
@@ -77,7 +93,7 @@ const readDictionary = (filePath) => {
     const wordMap = new Map();
 
     lines.forEach((line, index) => {
-        const parsed = parseDictionaryLine(line);
+        const parsed = parseDictionaryLine_simple(line);
         if (parsed) {
             wordMap.set(parsed.word.toLowerCase(), parsed.content); // Normalize to lowercase
         } else {
