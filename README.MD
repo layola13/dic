@@ -12,3 +12,4 @@
 2.基本字典  包括基本音标和中文注释，还有示例和其他解析
 
 3.进阶字典  在基本字典上增加更多的语法解析。
+node cleanEmptyFiles.js --dir="./gemini_dic/dic_temp_11_gemini15pro_full_complete" --ext=".md" --minSize=100
