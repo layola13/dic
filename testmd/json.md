@@ -1,0 +1,19 @@
+lkjlkj
+
+```json
+{
+  "name": "dic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "combine.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
+```

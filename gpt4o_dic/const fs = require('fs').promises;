@@ -1,0 +1,55 @@
+const fs = require('fs').promises;
+const path = require('path');
+
+async function findMdFiles(dir) {
+    const files = await fs.readdir(dir, { withFileTypes: true });
+    const mdFiles = [];
+
+    for (const file of files) {
+        const fullPath = path.join(dir, file.name);
+        if (file.isDirectory()) {
+            mdFiles.push(...(await findMdFiles(fullPath)));
+        } else if (file.name.endsWith('.md')) {
+            mdFiles.push(fullPath);
+        }
+    }
+    return mdFiles;
+}
+
+async function hasJsonContent(filePath) {
+    const content = await fs.readFile(filePath, 'utf8');
+    return content.includes('```json') && content.includes('```');
+}
+
+async function main() {
+    if (process.argv.length < 3) {
+        console.error('Please provide a directory path');
+        process.exit(1);
+    }
+
+    const targetDir = process.argv[2];
+    const deletedFiles = [];
+
+    try {
+        const mdFiles = await findMdFiles(targetDir);
+        console.log(`Found ${mdFiles.length} MD files`);
+
+        for (const file of mdFiles) {
+            const hasJson = await hasJsonContent(file);
+            if (!hasJson) {
+                await fs.unlink(file);
+                deletedFiles.push(file);
+            }
+        }
+
+        console.log('\nDeleted files:');
+        deletedFiles.forEach(file => console.log(file));
+        console.log(`\nTotal files deleted: ${deletedFiles.length}`);
+
+    } catch (error) {
+        console.error('Error:', error);
+        process.exit(1);
+    }
+}
+
+main();
